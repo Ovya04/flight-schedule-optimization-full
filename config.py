@@ -2,8 +2,8 @@ import os
 
 API_KEYS = {
     # Paste your keys below:
-    'FLIGHT_RADAR24': '0198d637-bba1-72ef-ad7b-df4b6e295cbf|4RJSQfAkdsAM3xNgd4VgkY7a6sIRvaVafoQWYFK2ca2e8395',
-    'OPENWEATHER':    'ed13b2870bb71e0bb42231257a7eb82b',
+    'FLIGHT_RADAR24': 'sandbox key',
+    'OPENWEATHER':    'key',
     'OPENAI':         'key'
 API_ENDPOINTS = {
     'FR24_SCHEDULE': 'https://api.flightradar24.com/common/v1/airport.json',
