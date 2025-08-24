@@ -1,0 +1,1336 @@
+flight_number,date,STD,ATD,destination,aircraft,airline,airline_code,STD_minutes,ATD_minutes,departure_delay,scheduled_hour,day_of_week,is_weekend,delay_category,is_peak_hour,route_type
+AI7334,2025-08-17,19:30,19:30,Pune (PNQ),B738,Air India,"('AI', 'Air India', 0.3)",1170,1170,0,19,6,True,Early,True,Domestic
+SG3222,2025-08-17,21:00,21:27,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1260,1287,27,21,6,True,Minor Delay,False,Domestic
+6E7774,2025-08-17,06:45,07:48,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",405,468,63,6,6,True,Severe Delay,True,Domestic
+6E5902,2025-08-17,09:00,09:41,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",540,581,41,9,6,True,Major Delay,True,Domestic
+UK9551,2025-08-17,20:00,20:28,Ahmedabad (AMD),B737,Vistara,"('UK', 'Vistara', 0.1)",1200,1228,28,20,6,True,Minor Delay,True,Domestic
+6E6417,2025-08-17,17:15,17:40,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1035,1060,25,17,6,True,Minor Delay,True,Domestic
+6E4795,2025-08-17,23:30,23:43,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1423,13,23,6,True,On Time,False,Domestic
+SG1321,2025-08-17,17:45,17:48,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1065,1068,3,17,6,True,On Time,True,Domestic
+AI9452,2025-08-17,06:00,06:46,Jaipur (JAI),B787,Air India,"('AI', 'Air India', 0.3)",360,406,46,6,6,True,Major Delay,True,Domestic
+6E2309,2025-08-17,15:45,15:47,Jaipur (JAI),A320,IndiGo,"('6E', 'IndiGo', 0.4)",945,947,2,15,6,True,On Time,False,Domestic
+6E9935,2025-08-17,19:15,19:34,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1155,1174,19,19,6,True,Minor Delay,True,Domestic
+6E2864,2025-08-17,06:15,06:44,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",375,404,29,6,6,True,Minor Delay,True,Domestic
+UK8414,2025-08-17,10:00,10:13,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",600,613,13,10,6,True,On Time,False,Domestic
+6E3335,2025-08-17,12:30,12:37,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",750,757,7,12,6,True,On Time,False,Domestic
+6E3744,2025-08-17,18:45,18:45,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1125,0,18,6,True,Early,True,Domestic
+6E8535,2025-08-17,13:15,13:24,Bangkok (BKK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",795,804,9,13,6,True,On Time,False,International
+AI1671,2025-08-17,14:45,14:48,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",885,888,3,14,6,True,On Time,False,Domestic
+AI7535,2025-08-17,07:00,07:22,Jaipur (JAI),A320,Air India,"('AI', 'Air India', 0.3)",420,442,22,7,6,True,Minor Delay,True,Domestic
+6E8497,2025-08-17,15:30,15:55,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",930,955,25,15,6,True,Minor Delay,False,Domestic
+AI6054,2025-08-17,14:15,14:28,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",855,868,13,14,6,True,On Time,False,Domestic
+SG1862,2025-08-17,17:00,17:21,Kolkata (CCU),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1020,1041,21,17,6,True,Minor Delay,True,Domestic
+6E4936,2025-08-17,08:45,08:54,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",525,534,9,8,6,True,On Time,True,Domestic
+AI4308,2025-08-17,21:30,21:30,Hyderabad (HYD),A350,Air India,"('AI', 'Air India', 0.3)",1290,1290,0,21,6,True,Early,False,Domestic
+AI8146,2025-08-17,16:30,16:43,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",990,1003,13,16,6,True,On Time,False,Domestic
+6E7452,2025-08-17,08:00,08:27,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",480,507,27,8,6,True,Minor Delay,True,Domestic
+6E2610,2025-08-17,21:15,21:15,Hyderabad (HYD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1275,0,21,6,True,Early,False,Domestic
+AI9465,2025-08-17,22:45,23:03,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1365,1383,18,22,6,True,Minor Delay,False,Domestic
+UK8171,2025-08-17,13:00,13:20,Chennai (MAA),A321,Vistara,"('UK', 'Vistara', 0.1)",780,800,20,13,6,True,Minor Delay,False,Domestic
+AI7115,2025-08-17,12:45,12:51,Pune (PNQ),B777,Air India,"('AI', 'Air India', 0.3)",765,771,6,12,6,True,On Time,False,Domestic
+6E3418,2025-08-17,14:00,14:00,Chennai (MAA),A321,IndiGo,"('6E', 'IndiGo', 0.4)",840,840,0,14,6,True,Early,False,Domestic
+AI2201,2025-08-17,07:00,07:38,Ahmedabad (AMD),B738,Air India,"('AI', 'Air India', 0.3)",420,458,38,7,6,True,Major Delay,True,Domestic
+6E1306,2025-08-17,23:45,23:54,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1425,1434,9,23,6,True,On Time,False,Domestic
+6E7138,2025-08-17,21:30,21:30,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1290,0,21,6,True,Early,False,Domestic
+IX1872,2025-08-17,10:00,10:02,Delhi (DEL),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",600,602,2,10,6,True,On Time,False,Domestic
+SG6715,2025-08-17,05:30,05:45,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",330,345,15,5,6,True,On Time,False,Domestic
+6E1874,2025-08-17,07:30,07:50,Singapore (SIN),A320,IndiGo,"('6E', 'IndiGo', 0.4)",450,470,20,7,6,True,Minor Delay,True,International
+AI5152,2025-08-17,07:30,07:30,Ahmedabad (AMD),B787,Air India,"('AI', 'Air India', 0.3)",450,450,0,7,6,True,Early,True,Domestic
+6E1330,2025-08-17,18:15,18:49,Cochin (COK),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1129,34,18,6,True,Major Delay,True,Domestic
+SG9450,2025-08-17,15:45,15:45,Dubai (DXB),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",945,945,0,15,6,True,Early,False,International
+6E9716,2025-08-17,09:15,09:24,Cochin (COK),B738,IndiGo,"('6E', 'IndiGo', 0.4)",555,564,9,9,6,True,On Time,True,Domestic
+AI1311,2025-08-17,19:30,20:06,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",1170,1206,36,19,6,True,Major Delay,True,Domestic
+AI7781,2025-08-17,18:15,18:49,Ahmedabad (AMD),B737,Air India,"('AI', 'Air India', 0.3)",1095,1129,34,18,6,True,Major Delay,True,Domestic
+6E2246,2025-08-17,13:00,13:10,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",780,790,10,13,6,True,On Time,False,Domestic
+6E9934,2025-08-17,13:15,13:15,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",795,795,0,13,6,True,Early,False,Domestic
+6E9099,2025-08-17,13:30,13:37,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",810,817,7,13,6,True,On Time,False,Domestic
+IX3010,2025-08-17,17:45,18:01,Ahmedabad (AMD),B787,Air India Express,"('IX', 'Air India Express', 0.05)",1065,1081,16,17,6,True,Minor Delay,True,Domestic
+6E9254,2025-08-17,23:30,23:47,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1427,17,23,6,True,Minor Delay,False,Domestic
+SG4365,2025-08-17,07:30,07:52,Bengaluru (BLR),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,472,22,7,6,True,Minor Delay,True,Domestic
+AI1914,2025-08-17,07:00,07:00,Bangkok (BKK),A320,Air India,"('AI', 'Air India', 0.3)",420,420,0,7,6,True,Early,True,International
+6E2573,2025-08-17,05:00,05:00,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",300,300,0,5,6,True,Early,False,Domestic
+6E8153,2025-08-17,10:15,10:33,Jaipur (JAI),A321,IndiGo,"('6E', 'IndiGo', 0.4)",615,633,18,10,6,True,Minor Delay,False,Domestic
+UK6474,2025-08-17,20:45,21:18,Bangkok (BKK),B738,Vistara,"('UK', 'Vistara', 0.1)",1245,1278,33,20,6,True,Major Delay,True,International
+6E8848,2025-08-17,23:00,23:00,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1380,0,23,6,True,Early,False,Domestic
+6E9569,2025-08-17,12:30,12:54,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",750,774,24,12,6,True,Minor Delay,False,Domestic
+AI4633,2025-08-17,22:15,22:34,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1335,1354,19,22,6,True,Minor Delay,False,Domestic
+AI3256,2025-08-17,13:30,13:45,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",810,825,15,13,6,True,On Time,False,Domestic
+6E5939,2025-08-17,20:30,20:51,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1251,21,20,6,True,Minor Delay,True,Domestic
+AI5003,2025-08-17,05:45,06:08,Ahmedabad (AMD),A321,Air India,"('AI', 'Air India', 0.3)",345,368,23,5,6,True,Minor Delay,False,Domestic
+AI7582,2025-08-17,22:15,22:46,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",1335,1366,31,22,6,True,Major Delay,False,Domestic
+6E5341,2025-08-17,12:30,12:43,Cochin (COK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",750,763,13,12,6,True,On Time,False,Domestic
+6E6984,2025-08-17,11:00,11:16,Cochin (COK),A350,IndiGo,"('6E', 'IndiGo', 0.4)",660,676,16,11,6,True,Minor Delay,False,Domestic
+AI7078,2025-08-17,14:15,14:28,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",855,868,13,14,6,True,On Time,False,Domestic
+AI9229,2025-08-17,21:45,22:05,Bangkok (BKK),A350,Air India,"('AI', 'Air India', 0.3)",1305,1325,20,21,6,True,Minor Delay,False,International
+IX8087,2025-08-17,07:15,07:15,Chennai (MAA),B787,Air India Express,"('IX', 'Air India Express', 0.05)",435,435,0,7,6,True,Early,True,Domestic
+6E9299,2025-08-17,05:00,05:03,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",300,303,3,5,6,True,On Time,False,Domestic
+AI8011,2025-08-17,20:15,20:43,Dubai (DXB),B777,Air India,"('AI', 'Air India', 0.3)",1215,1243,28,20,6,True,Minor Delay,True,International
+SG5521,2025-08-17,22:00,22:13,Chennai (MAA),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1320,1333,13,22,6,True,On Time,False,Domestic
+IX9441,2025-08-17,14:00,14:25,Chennai (MAA),B787,Air India Express,"('IX', 'Air India Express', 0.05)",840,865,25,14,6,True,Minor Delay,False,Domestic
+SG9945,2025-08-17,12:30,12:45,Goa (GOI),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",750,765,15,12,6,True,On Time,False,Domestic
+AI6240,2025-08-17,21:00,21:00,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1260,1260,0,21,6,True,Early,False,Domestic
+UK7762,2025-08-17,22:30,22:30,Jaipur (JAI),A321,Vistara,"('UK', 'Vistara', 0.1)",1350,1350,0,22,6,True,Early,False,Domestic
+IX6753,2025-08-17,12:45,12:52,Bengaluru (BLR),A321,Air India Express,"('IX', 'Air India Express', 0.05)",765,772,7,12,6,True,On Time,False,Domestic
+6E2992,2025-08-17,20:30,21:03,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1263,33,20,6,True,Major Delay,True,Domestic
+AI4921,2025-08-17,07:45,08:06,Chennai (MAA),A350,Air India,"('AI', 'Air India', 0.3)",465,486,21,7,6,True,Minor Delay,True,Domestic
+6E6890,2025-08-17,14:45,15:09,Jaipur (JAI),B777,IndiGo,"('6E', 'IndiGo', 0.4)",885,909,24,14,6,True,Minor Delay,False,Domestic
+AI9863,2025-08-17,10:00,10:06,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",600,606,6,10,6,True,On Time,False,Domestic
+AI5152,2025-08-17,16:00,16:13,Singapore (SIN),ATR72,Air India,"('AI', 'Air India', 0.3)",960,973,13,16,6,True,On Time,False,International
+IX8851,2025-08-17,09:45,10:19,Bengaluru (BLR),B787,Air India Express,"('IX', 'Air India Express', 0.05)",585,619,34,9,6,True,Major Delay,True,Domestic
+6E2940,2025-08-17,19:45,21:02,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1262,77,19,6,True,Severe Delay,True,Domestic
+SG9930,2025-08-17,10:30,10:42,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",630,642,12,10,6,True,On Time,False,Domestic
+6E3624,2025-08-17,21:45,21:58,Bengaluru (BLR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1318,13,21,6,True,On Time,False,Domestic
+AI7725,2025-08-17,07:15,07:52,Cochin (COK),A320,Air India,"('AI', 'Air India', 0.3)",435,472,37,7,6,True,Major Delay,True,Domestic
+AI7194,2025-08-17,10:00,10:22,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",600,622,22,10,6,True,Minor Delay,False,Domestic
+SG4976,2025-08-17,18:15,18:41,Bengaluru (BLR),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1095,1121,26,18,6,True,Minor Delay,True,Domestic
+6E4023,2025-08-17,18:15,18:30,Hyderabad (HYD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1110,15,18,6,True,On Time,True,Domestic
+AI5609,2025-08-17,15:00,15:23,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",900,923,23,15,6,True,Minor Delay,False,Domestic
+AI5008,2025-08-17,07:45,08:13,Chennai (MAA),B738,Air India,"('AI', 'Air India', 0.3)",465,493,28,7,6,True,Minor Delay,True,Domestic
+AI7065,2025-08-17,11:45,11:54,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",705,714,9,11,6,True,On Time,False,Domestic
+6E1919,2025-08-17,07:15,07:22,Hyderabad (HYD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",435,442,7,7,6,True,On Time,True,Domestic
+AI4334,2025-08-17,10:30,10:40,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",630,640,10,10,6,True,On Time,False,Domestic
+SG1479,2025-08-17,15:30,15:30,Hyderabad (HYD),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,930,0,15,6,True,Early,False,Domestic
+UK3675,2025-08-17,18:15,18:27,Jaipur (JAI),B738,Vistara,"('UK', 'Vistara', 0.1)",1095,1107,12,18,6,True,On Time,True,Domestic
+6E5467,2025-08-17,16:30,16:33,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",990,993,3,16,6,True,On Time,False,Domestic
+6E9024,2025-08-17,09:45,10:17,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",585,617,32,9,6,True,Major Delay,True,Domestic
+UK3175,2025-08-17,17:00,17:25,Jaipur (JAI),B787,Vistara,"('UK', 'Vistara', 0.1)",1020,1045,25,17,6,True,Minor Delay,True,Domestic
+6E8125,2025-08-17,06:30,06:52,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",390,412,22,6,6,True,Minor Delay,True,Domestic
+AI3201,2025-08-17,15:45,15:52,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",945,952,7,15,6,True,On Time,False,Domestic
+UK9821,2025-08-17,21:15,21:29,Bengaluru (BLR),B738,Vistara,"('UK', 'Vistara', 0.1)",1275,1289,14,21,6,True,On Time,False,Domestic
+AI3166,2025-08-17,06:45,07:18,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",405,438,33,6,6,True,Major Delay,True,Domestic
+6E3072,2025-08-17,21:15,21:25,Jaipur (JAI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1285,10,21,6,True,On Time,False,Domestic
+6E1790,2025-08-17,23:00,23:00,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1380,0,23,6,True,Early,False,Domestic
+AI5615,2025-08-17,11:45,11:51,Bengaluru (BLR),B738,Air India,"('AI', 'Air India', 0.3)",705,711,6,11,6,True,On Time,False,Domestic
+IX4043,2025-08-17,11:15,11:34,Bengaluru (BLR),A320,Air India Express,"('IX', 'Air India Express', 0.05)",675,694,19,11,6,True,Minor Delay,False,Domestic
+6E7764,2025-08-17,10:30,10:34,Pune (PNQ),A350,IndiGo,"('6E', 'IndiGo', 0.4)",630,634,4,10,6,True,On Time,False,Domestic
+6E5510,2025-08-17,14:45,14:51,Cochin (COK),B777,IndiGo,"('6E', 'IndiGo', 0.4)",885,891,6,14,6,True,On Time,False,Domestic
+6E6451,2025-08-17,07:30,07:52,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",450,472,22,7,6,True,Minor Delay,True,Domestic
+AI1012,2025-08-17,20:15,20:39,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1215,1239,24,20,6,True,Minor Delay,True,Domestic
+SG7483,2025-08-17,19:00,19:24,Kolkata (CCU),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1140,1164,24,19,6,True,Minor Delay,True,Domestic
+SG1589,2025-08-17,22:15,22:32,Goa (GOI),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1335,1352,17,22,6,True,Minor Delay,False,Domestic
+AI9086,2025-08-17,09:00,09:54,Pune (PNQ),B738,Air India,"('AI', 'Air India', 0.3)",540,594,54,9,6,True,Major Delay,True,Domestic
+AI6380,2025-08-17,07:30,07:50,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",450,470,20,7,6,True,Minor Delay,True,Domestic
+AI1988,2025-08-17,13:45,14:07,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",825,847,22,13,6,True,Minor Delay,False,Domestic
+AI5306,2025-08-17,09:15,09:51,Cochin (COK),B738,Air India,"('AI', 'Air India', 0.3)",555,591,36,9,6,True,Major Delay,True,Domestic
+UK8953,2025-08-17,14:15,14:37,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",855,877,22,14,6,True,Minor Delay,False,Domestic
+SG8849,2025-08-17,23:00,23:00,Pune (PNQ),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1380,1380,0,23,6,True,Early,False,Domestic
+6E4598,2025-08-17,05:15,05:17,Goa (GOI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",315,317,2,5,6,True,On Time,False,Domestic
+6E9268,2025-08-17,16:30,16:30,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",990,990,0,16,6,True,Early,False,Domestic
+AI2186,2025-08-17,16:30,16:34,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",990,994,4,16,6,True,On Time,False,Domestic
+AI1130,2025-08-17,06:45,07:15,Pune (PNQ),A321,Air India,"('AI', 'Air India', 0.3)",405,435,30,6,6,True,Minor Delay,True,Domestic
+6E5745,2025-08-17,08:45,09:17,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",525,557,32,8,6,True,Major Delay,True,Domestic
+6E8508,2025-08-17,09:45,09:45,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",585,585,0,9,6,True,Early,True,Domestic
+IX8267,2025-08-17,21:00,21:03,Chennai (MAA),B737,Air India Express,"('IX', 'Air India Express', 0.05)",1260,1263,3,21,6,True,On Time,False,Domestic
+AI4317,2025-08-17,17:15,17:53,Jaipur (JAI),B777,Air India,"('AI', 'Air India', 0.3)",1035,1073,38,17,6,True,Major Delay,True,Domestic
+SG8110,2025-08-17,23:00,23:15,Ahmedabad (AMD),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1380,1395,15,23,6,True,On Time,False,Domestic
+AI3399,2025-08-17,11:30,11:40,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",690,700,10,11,6,True,On Time,False,Domestic
+6E9828,2025-08-17,16:45,17:01,Cochin (COK),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1021,16,16,6,True,Minor Delay,False,Domestic
+6E3561,2025-08-17,17:00,17:15,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1020,1035,15,17,6,True,On Time,True,Domestic
+AI9347,2025-08-17,19:15,20:03,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",1155,1203,48,19,6,True,Major Delay,True,Domestic
+AI7930,2025-08-17,22:30,22:58,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",1350,1378,28,22,6,True,Minor Delay,False,Domestic
+AI2492,2025-08-17,18:00,18:20,Pune (PNQ),B787,Air India,"('AI', 'Air India', 0.3)",1080,1100,20,18,6,True,Minor Delay,True,Domestic
+6E7582,2025-08-17,09:00,09:22,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",540,562,22,9,6,True,Minor Delay,True,Domestic
+AI8165,2025-08-17,14:00,14:20,Singapore (SIN),A321,Air India,"('AI', 'Air India', 0.3)",840,860,20,14,6,True,Minor Delay,False,International
+6E7031,2025-08-17,20:15,20:39,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1215,1239,24,20,6,True,Minor Delay,True,Domestic
+6E2917,2025-08-17,18:45,19:04,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1144,19,18,6,True,Minor Delay,True,Domestic
+AI5543,2025-08-17,16:00,16:00,Cochin (COK),A321,Air India,"('AI', 'Air India', 0.3)",960,960,0,16,6,True,Early,False,Domestic
+6E4849,2025-08-17,14:45,15:02,Pune (PNQ),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",885,902,17,14,6,True,Minor Delay,False,Domestic
+6E7876,2025-08-17,09:15,09:22,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",555,562,7,9,6,True,On Time,True,Domestic
+AI4062,2025-08-17,09:15,09:43,Hyderabad (HYD),B787,Air India,"('AI', 'Air India', 0.3)",555,583,28,9,6,True,Minor Delay,True,Domestic
+6E4530,2025-08-17,10:00,10:03,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",600,603,3,10,6,True,On Time,False,Domestic
+AI3013,2025-08-17,13:30,13:49,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",810,829,19,13,6,True,Minor Delay,False,Domestic
+6E2330,2025-08-17,11:45,11:55,Jaipur (JAI),B777,IndiGo,"('6E', 'IndiGo', 0.4)",705,715,10,11,6,True,On Time,False,Domestic
+AI2893,2025-08-17,16:00,16:00,Singapore (SIN),B737,Air India,"('AI', 'Air India', 0.3)",960,960,0,16,6,True,Early,False,International
+QP7419,2025-08-17,22:15,22:35,Delhi (DEL),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",1335,1355,20,22,6,True,Minor Delay,False,Domestic
+AI5858,2025-08-17,07:00,07:31,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",420,451,31,7,6,True,Major Delay,True,Domestic
+6E1324,2025-08-17,23:30,23:55,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1435,25,23,6,True,Minor Delay,False,Domestic
+6E6018,2025-08-17,15:00,15:32,Goa (GOI),A320,IndiGo,"('6E', 'IndiGo', 0.4)",900,932,32,15,6,True,Major Delay,False,Domestic
+6E3785,2025-08-17,12:15,12:26,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",735,746,11,12,6,True,On Time,False,Domestic
+AI1992,2025-08-17,13:45,13:45,Bangkok (BKK),B787,Air India,"('AI', 'Air India', 0.3)",825,825,0,13,6,True,Early,False,International
+6E6512,2025-08-17,16:45,16:46,Pune (PNQ),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1006,1,16,6,True,On Time,False,Domestic
+AI1994,2025-08-17,09:30,10:10,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",570,610,40,9,6,True,Major Delay,True,Domestic
+6E9193,2025-08-17,21:00,21:13,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1273,13,21,6,True,On Time,False,Domestic
+UK3658,2025-08-17,13:00,13:03,Chennai (MAA),ATR72,Vistara,"('UK', 'Vistara', 0.1)",780,783,3,13,6,True,On Time,False,Domestic
+AI5608,2025-08-17,06:15,07:00,Kolkata (CCU),ATR72,Air India,"('AI', 'Air India', 0.3)",375,420,45,6,6,True,Major Delay,True,Domestic
+AI1228,2025-08-17,09:15,09:41,Hyderabad (HYD),B787,Air India,"('AI', 'Air India', 0.3)",555,581,26,9,6,True,Minor Delay,True,Domestic
+AI4456,2025-08-17,08:15,08:23,Hyderabad (HYD),A350,Air India,"('AI', 'Air India', 0.3)",495,503,8,8,6,True,On Time,True,Domestic
+6E9791,2025-08-17,18:00,18:00,Bengaluru (BLR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1080,0,18,6,True,Early,True,Domestic
+AI7286,2025-08-17,09:30,10:00,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",570,600,30,9,6,True,Minor Delay,True,Domestic
+SG1105,2025-08-17,07:15,07:41,Cochin (COK),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",435,461,26,7,6,True,Minor Delay,True,Domestic
+AI2620,2025-08-17,09:30,10:00,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",570,600,30,9,6,True,Minor Delay,True,Domestic
+AI4363,2025-08-17,18:45,19:44,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1125,1184,59,18,6,True,Major Delay,True,Domestic
+6E2709,2025-08-18,12:00,12:07,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",720,727,7,12,0,False,On Time,False,Domestic
+AI5525,2025-08-18,08:45,09:08,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",525,548,23,8,0,False,Minor Delay,True,Domestic
+6E2212,2025-08-18,08:45,09:14,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",525,554,29,8,0,False,Minor Delay,True,Domestic
+6E1260,2025-08-18,13:30,13:49,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",810,829,19,13,0,False,Minor Delay,False,Domestic
+AI6852,2025-08-18,10:15,10:15,Kolkata (CCU),A350,Air India,"('AI', 'Air India', 0.3)",615,615,0,10,0,False,Early,False,Domestic
+6E2022,2025-08-18,06:00,06:28,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",360,388,28,6,0,False,Minor Delay,True,Domestic
+SG1545,2025-08-18,20:30,20:30,Hyderabad (HYD),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1230,1230,0,20,0,False,Early,True,Domestic
+AI1832,2025-08-18,09:45,10:25,Singapore (SIN),B787,Air India,"('AI', 'Air India', 0.3)",585,625,40,9,0,False,Major Delay,True,International
+6E8728,2025-08-18,22:45,23:04,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1384,19,22,0,False,Minor Delay,False,Domestic
+AI5849,2025-08-18,12:30,12:30,Ahmedabad (AMD),A320,Air India,"('AI', 'Air India', 0.3)",750,750,0,12,0,False,Early,False,Domestic
+6E1656,2025-08-18,23:00,23:14,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1394,14,23,0,False,On Time,False,Domestic
+SG4380,2025-08-18,08:15,08:49,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",495,529,34,8,0,False,Major Delay,True,Domestic
+AI6625,2025-08-18,18:45,19:14,Pune (PNQ),A321,Air India,"('AI', 'Air India', 0.3)",1125,1154,29,18,0,False,Minor Delay,True,Domestic
+6E9880,2025-08-18,14:15,14:19,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",855,859,4,14,0,False,On Time,False,Domestic
+AI3866,2025-08-18,10:30,10:30,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",630,630,0,10,0,False,Early,False,Domestic
+UK8430,2025-08-18,05:15,05:24,Kolkata (CCU),B737,Vistara,"('UK', 'Vistara', 0.1)",315,324,9,5,0,False,On Time,False,Domestic
+AI6902,2025-08-18,21:45,21:52,Goa (GOI),B737,Air India,"('AI', 'Air India', 0.3)",1305,1312,7,21,0,False,On Time,False,Domestic
+6E6508,2025-08-18,08:00,08:20,Goa (GOI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",480,500,20,8,0,False,Minor Delay,True,Domestic
+UK5022,2025-08-18,23:15,23:46,Delhi (DEL),B787,Vistara,"('UK', 'Vistara', 0.1)",1395,1426,31,23,0,False,Major Delay,False,Domestic
+SG8694,2025-08-18,12:30,12:51,Kolkata (CCU),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",750,771,21,12,0,False,Minor Delay,False,Domestic
+6E9060,2025-08-18,07:00,07:13,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",420,433,13,7,0,False,On Time,True,Domestic
+AI5412,2025-08-18,23:00,23:04,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",1380,1384,4,23,0,False,On Time,False,Domestic
+UK2266,2025-08-18,16:45,17:11,Pune (PNQ),B787,Vistara,"('UK', 'Vistara', 0.1)",1005,1031,26,16,0,False,Minor Delay,False,Domestic
+AI5078,2025-08-18,16:15,16:30,Goa (GOI),B738,Air India,"('AI', 'Air India', 0.3)",975,990,15,16,0,False,On Time,False,Domestic
+AI9224,2025-08-18,07:30,08:01,Chennai (MAA),B738,Air India,"('AI', 'Air India', 0.3)",450,481,31,7,0,False,Major Delay,True,Domestic
+IX2283,2025-08-18,23:15,23:31,Chennai (MAA),B738,Air India Express,"('IX', 'Air India Express', 0.05)",1395,1411,16,23,0,False,Minor Delay,False,Domestic
+6E1407,2025-08-18,07:45,08:05,Ahmedabad (AMD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",465,485,20,7,0,False,Minor Delay,True,Domestic
+UK8518,2025-08-18,22:15,22:15,Ahmedabad (AMD),A321,Vistara,"('UK', 'Vistara', 0.1)",1335,1335,0,22,0,False,Early,False,Domestic
+AI1832,2025-08-18,07:15,07:28,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",435,448,13,7,0,False,On Time,True,Domestic
+AI9024,2025-08-18,12:00,12:12,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",720,732,12,12,0,False,On Time,False,Domestic
+6E5423,2025-08-18,05:30,05:33,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",330,333,3,5,0,False,On Time,False,Domestic
+IX8218,2025-08-18,19:00,19:28,Chennai (MAA),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1140,1168,28,19,0,False,Minor Delay,True,Domestic
+AI1237,2025-08-18,05:45,06:02,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",345,362,17,5,0,False,Minor Delay,False,Domestic
+AI5976,2025-08-18,11:30,11:59,Bangkok (BKK),B737,Air India,"('AI', 'Air India', 0.3)",690,719,29,11,0,False,Minor Delay,False,International
+AI9781,2025-08-18,13:15,13:19,Chennai (MAA),A320,Air India,"('AI', 'Air India', 0.3)",795,799,4,13,0,False,On Time,False,Domestic
+AI3458,2025-08-18,11:30,11:50,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",690,710,20,11,0,False,Minor Delay,False,Domestic
+6E3025,2025-08-18,14:30,14:33,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",870,873,3,14,0,False,On Time,False,Domestic
+AI9174,2025-08-18,10:45,10:45,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",645,645,0,10,0,False,Early,False,Domestic
+AI8502,2025-08-18,19:15,19:15,Singapore (SIN),A350,Air India,"('AI', 'Air India', 0.3)",1155,1155,0,19,0,False,Early,True,International
+AI4135,2025-08-18,18:30,18:58,Bangkok (BKK),B738,Air India,"('AI', 'Air India', 0.3)",1110,1138,28,18,0,False,Minor Delay,True,International
+6E7145,2025-08-18,05:45,06:10,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",345,370,25,5,0,False,Minor Delay,False,Domestic
+6E9873,2025-08-18,12:45,12:57,Dubai (DXB),A320,IndiGo,"('6E', 'IndiGo', 0.4)",765,777,12,12,0,False,On Time,False,International
+6E5197,2025-08-18,07:45,08:17,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",465,497,32,7,0,False,Major Delay,True,Domestic
+6E5648,2025-08-18,10:45,11:04,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",645,664,19,10,0,False,Minor Delay,False,Domestic
+UK3576,2025-08-18,18:45,19:19,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",1125,1159,34,18,0,False,Major Delay,True,Domestic
+UK6607,2025-08-18,08:15,08:34,Bengaluru (BLR),ATR72,Vistara,"('UK', 'Vistara', 0.1)",495,514,19,8,0,False,Minor Delay,True,Domestic
+6E2847,2025-08-18,12:30,12:41,Cochin (COK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",750,761,11,12,0,False,On Time,False,Domestic
+6E9145,2025-08-18,16:45,16:55,London (LHR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1015,10,16,0,False,On Time,False,International
+6E5978,2025-08-18,18:30,18:57,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1137,27,18,0,False,Minor Delay,True,Domestic
+IX8798,2025-08-18,05:30,05:50,Bengaluru (BLR),B787,Air India Express,"('IX', 'Air India Express', 0.05)",330,350,20,5,0,False,Minor Delay,False,Domestic
+UK9019,2025-08-18,10:30,10:47,Delhi (DEL),B777,Vistara,"('UK', 'Vistara', 0.1)",630,647,17,10,0,False,Minor Delay,False,Domestic
+6E6849,2025-08-18,15:15,15:15,Jaipur (JAI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",915,915,0,15,0,False,Early,False,Domestic
+AI2627,2025-08-18,09:15,09:45,London (LHR),A350,Air India,"('AI', 'Air India', 0.3)",555,585,30,9,0,False,Minor Delay,True,International
+QP9439,2025-08-18,20:45,21:12,Chennai (MAA),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",1245,1272,27,20,0,False,Minor Delay,True,Domestic
+6E5435,2025-08-18,10:30,10:45,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",630,645,15,10,0,False,On Time,False,Domestic
+6E2664,2025-08-18,23:15,23:15,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1395,0,23,0,False,Early,False,Domestic
+6E6961,2025-08-18,06:15,06:50,Bangkok (BKK),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",375,410,35,6,0,False,Major Delay,True,International
+UK1079,2025-08-18,21:30,21:47,Delhi (DEL),B737,Vistara,"('UK', 'Vistara', 0.1)",1290,1307,17,21,0,False,Minor Delay,False,Domestic
+SG7900,2025-08-18,10:30,10:36,Goa (GOI),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",630,636,6,10,0,False,On Time,False,Domestic
+6E2018,2025-08-18,23:00,23:00,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1380,0,23,0,False,Early,False,Domestic
+UK1285,2025-08-18,23:45,00:08,Kolkata (CCU),ATR72,Vistara,"('UK', 'Vistara', 0.1)",1425,8,-1417,23,0,False,Early,False,Domestic
+6E2815,2025-08-18,20:15,20:39,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1215,1239,24,20,0,False,Minor Delay,True,Domestic
+UK7847,2025-08-18,17:15,17:43,Delhi (DEL),B737,Vistara,"('UK', 'Vistara', 0.1)",1035,1063,28,17,0,False,Minor Delay,True,Domestic
+QP5734,2025-08-18,13:15,13:15,Singapore (SIN),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",795,795,0,13,0,False,Early,False,International
+UK6382,2025-08-18,15:00,15:23,Jaipur (JAI),B738,Vistara,"('UK', 'Vistara', 0.1)",900,923,23,15,0,False,Minor Delay,False,Domestic
+6E5535,2025-08-18,06:15,07:09,Dubai (DXB),A321,IndiGo,"('6E', 'IndiGo', 0.4)",375,429,54,6,0,False,Major Delay,True,International
+6E1289,2025-08-18,19:00,19:38,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1178,38,19,0,False,Major Delay,True,Domestic
+AI3573,2025-08-18,05:45,05:47,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",345,347,2,5,0,False,On Time,False,Domestic
+6E2716,2025-08-18,14:45,15:02,Goa (GOI),B737,IndiGo,"('6E', 'IndiGo', 0.4)",885,902,17,14,0,False,Minor Delay,False,Domestic
+6E4734,2025-08-18,12:30,12:32,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",750,752,2,12,0,False,On Time,False,Domestic
+SG8744,2025-08-18,06:30,07:02,Goa (GOI),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",390,422,32,6,0,False,Major Delay,True,Domestic
+AI7927,2025-08-18,22:15,22:32,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1335,1352,17,22,0,False,Minor Delay,False,Domestic
+SG4004,2025-08-18,21:00,21:13,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1260,1273,13,21,0,False,On Time,False,Domestic
+AI9492,2025-08-18,15:30,15:45,Hyderabad (HYD),A350,Air India,"('AI', 'Air India', 0.3)",930,945,15,15,0,False,On Time,False,Domestic
+6E3837,2025-08-18,23:30,23:41,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1421,11,23,0,False,On Time,False,Domestic
+AI2720,2025-08-18,21:45,21:48,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",1305,1308,3,21,0,False,On Time,False,Domestic
+AI9772,2025-08-18,07:15,07:26,Pune (PNQ),B737,Air India,"('AI', 'Air India', 0.3)",435,446,11,7,0,False,On Time,True,Domestic
+UK3180,2025-08-18,13:45,13:52,Hyderabad (HYD),A320,Vistara,"('UK', 'Vistara', 0.1)",825,832,7,13,0,False,On Time,False,Domestic
+AI3208,2025-08-18,05:30,05:52,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",330,352,22,5,0,False,Minor Delay,False,Domestic
+SG2867,2025-08-18,09:15,09:15,Chennai (MAA),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",555,555,0,9,0,False,Early,True,Domestic
+6E9839,2025-08-18,10:00,10:21,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",600,621,21,10,0,False,Minor Delay,False,Domestic
+AI4800,2025-08-18,20:00,21:03,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1200,1263,63,20,0,False,Severe Delay,True,Domestic
+QP1571,2025-08-18,07:45,08:12,Chennai (MAA),A320,Akasa Air,"('QP', 'Akasa Air', 0.03)",465,492,27,7,0,False,Minor Delay,True,Domestic
+UK5352,2025-08-18,21:00,21:08,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",1260,1268,8,21,0,False,On Time,False,Domestic
+6E8091,2025-08-18,17:30,17:56,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1076,26,17,0,False,Minor Delay,True,Domestic
+6E8836,2025-08-18,07:15,07:43,Hyderabad (HYD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",435,463,28,7,0,False,Minor Delay,True,Domestic
+6E5359,2025-08-18,18:00,18:05,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1085,5,18,0,False,On Time,True,Domestic
+6E8570,2025-08-18,13:30,13:45,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",810,825,15,13,0,False,On Time,False,Domestic
+IX9018,2025-08-18,18:30,19:15,Chennai (MAA),A321,Air India Express,"('IX', 'Air India Express', 0.05)",1110,1155,45,18,0,False,Major Delay,True,Domestic
+AI2425,2025-08-18,07:45,08:05,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",465,485,20,7,0,False,Minor Delay,True,Domestic
+QP2963,2025-08-18,21:45,22:00,Goa (GOI),B737,Akasa Air,"('QP', 'Akasa Air', 0.03)",1305,1320,15,21,0,False,On Time,False,Domestic
+UK4077,2025-08-18,08:30,08:40,Singapore (SIN),ATR72,Vistara,"('UK', 'Vistara', 0.1)",510,520,10,8,0,False,On Time,True,International
+AI3974,2025-08-18,15:45,16:01,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",945,961,16,15,0,False,Minor Delay,False,Domestic
+SG2135,2025-08-18,16:45,16:55,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1005,1015,10,16,0,False,On Time,False,Domestic
+IX2329,2025-08-18,07:30,08:04,Bengaluru (BLR),A320,Air India Express,"('IX', 'Air India Express', 0.05)",450,484,34,7,0,False,Major Delay,True,Domestic
+6E3513,2025-08-18,06:15,06:36,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",375,396,21,6,0,False,Minor Delay,True,Domestic
+6E1723,2025-08-18,09:00,09:32,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",540,572,32,9,0,False,Major Delay,True,Domestic
+AI3406,2025-08-18,22:00,22:01,Pune (PNQ),A320,Air India,"('AI', 'Air India', 0.3)",1320,1321,1,22,0,False,On Time,False,Domestic
+6E9565,2025-08-18,13:45,13:45,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",825,825,0,13,0,False,Early,False,Domestic
+6E4175,2025-08-18,20:00,20:34,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1200,1234,34,20,0,False,Major Delay,True,Domestic
+AI6920,2025-08-18,05:45,05:51,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",345,351,6,5,0,False,On Time,False,Domestic
+IX4009,2025-08-18,06:30,06:42,Chennai (MAA),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",390,402,12,6,0,False,On Time,True,Domestic
+AI2988,2025-08-18,08:45,09:23,Goa (GOI),A320,Air India,"('AI', 'Air India', 0.3)",525,563,38,8,0,False,Major Delay,True,Domestic
+IX3344,2025-08-18,23:00,23:00,Hyderabad (HYD),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1380,1380,0,23,0,False,Early,False,Domestic
+AI9246,2025-08-18,09:15,09:40,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",555,580,25,9,0,False,Minor Delay,True,Domestic
+6E7759,2025-08-18,09:00,09:19,Pune (PNQ),B777,IndiGo,"('6E', 'IndiGo', 0.4)",540,559,19,9,0,False,Minor Delay,True,Domestic
+AI8984,2025-08-18,22:30,22:37,Goa (GOI),B738,Air India,"('AI', 'Air India', 0.3)",1350,1357,7,22,0,False,On Time,False,Domestic
+SG9751,2025-08-18,14:45,14:45,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",885,885,0,14,0,False,Early,False,Domestic
+AI3585,2025-08-18,17:45,18:09,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",1065,1089,24,17,0,False,Minor Delay,True,Domestic
+6E5144,2025-08-18,06:30,07:00,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",390,420,30,6,0,False,Minor Delay,True,Domestic
+IX9836,2025-08-18,06:30,07:03,Ahmedabad (AMD),B737,Air India Express,"('IX', 'Air India Express', 0.05)",390,423,33,6,0,False,Major Delay,True,Domestic
+SG8290,2025-08-18,06:45,07:17,Hyderabad (HYD),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",405,437,32,6,0,False,Major Delay,True,Domestic
+6E4118,2025-08-18,12:15,12:15,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",735,735,0,12,0,False,Early,False,Domestic
+AI3949,2025-08-18,14:00,14:27,Goa (GOI),ATR72,Air India,"('AI', 'Air India', 0.3)",840,867,27,14,0,False,Minor Delay,False,Domestic
+AI2906,2025-08-18,15:45,15:54,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",945,954,9,15,0,False,On Time,False,Domestic
+AI1750,2025-08-18,12:15,12:26,Kolkata (CCU),ATR72,Air India,"('AI', 'Air India', 0.3)",735,746,11,12,0,False,On Time,False,Domestic
+6E4036,2025-08-18,15:30,15:49,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",930,949,19,15,0,False,Minor Delay,False,Domestic
+SG6065,2025-08-18,20:30,20:55,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1230,1255,25,20,0,False,Minor Delay,True,Domestic
+6E9626,2025-08-18,08:00,08:27,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",480,507,27,8,0,False,Minor Delay,True,Domestic
+SG5636,2025-08-18,21:00,21:12,Chennai (MAA),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1260,1272,12,21,0,False,On Time,False,Domestic
+SG1354,2025-08-18,14:30,14:30,Pune (PNQ),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",870,870,0,14,0,False,Early,False,Domestic
+AI6333,2025-08-18,11:00,11:09,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",660,669,9,11,0,False,On Time,False,Domestic
+AI6211,2025-08-18,21:00,21:07,Jaipur (JAI),A320,Air India,"('AI', 'Air India', 0.3)",1260,1267,7,21,0,False,On Time,False,Domestic
+SG8197,2025-08-18,21:30,21:30,Bengaluru (BLR),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1290,1290,0,21,0,False,Early,False,Domestic
+AI7558,2025-08-18,12:30,12:38,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",750,758,8,12,0,False,On Time,False,Domestic
+AI4073,2025-08-18,11:15,11:27,Pune (PNQ),A350,Air India,"('AI', 'Air India', 0.3)",675,687,12,11,0,False,On Time,False,Domestic
+AI6475,2025-08-18,15:00,15:10,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",900,910,10,15,0,False,On Time,False,Domestic
+AI9768,2025-08-18,08:30,09:06,Ahmedabad (AMD),A321,Air India,"('AI', 'Air India', 0.3)",510,546,36,8,0,False,Major Delay,True,Domestic
+6E2709,2025-08-18,13:45,13:58,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",825,838,13,13,0,False,On Time,False,Domestic
+6E7957,2025-08-18,22:15,22:22,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1342,7,22,0,False,On Time,False,Domestic
+6E7368,2025-08-18,14:30,14:30,Bengaluru (BLR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",870,870,0,14,0,False,Early,False,Domestic
+6E4388,2025-08-18,15:15,15:19,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",915,919,4,15,0,False,On Time,False,Domestic
+6E5171,2025-08-18,07:45,08:28,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",465,508,43,7,0,False,Major Delay,True,Domestic
+QP1839,2025-08-18,08:00,08:26,Ahmedabad (AMD),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",480,506,26,8,0,False,Minor Delay,True,Domestic
+SG9014,2025-08-18,07:45,07:45,Ahmedabad (AMD),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",465,465,0,7,0,False,Early,True,Domestic
+6E5949,2025-08-18,10:00,10:32,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",600,632,32,10,0,False,Major Delay,False,Domestic
+6E3447,2025-08-18,19:00,19:36,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1176,36,19,0,False,Major Delay,True,Domestic
+6E9460,2025-08-18,14:45,14:46,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",885,886,1,14,0,False,On Time,False,Domestic
+AI6317,2025-08-18,11:15,11:21,Goa (GOI),ATR72,Air India,"('AI', 'Air India', 0.3)",675,681,6,11,0,False,On Time,False,Domestic
+SG3777,2025-08-18,16:30,16:48,Kolkata (CCU),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",990,1008,18,16,0,False,Minor Delay,False,Domestic
+6E8107,2025-08-18,06:15,06:50,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",375,410,35,6,0,False,Major Delay,True,Domestic
+6E4759,2025-08-18,22:45,22:57,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1377,12,22,0,False,On Time,False,Domestic
+SG8269,2025-08-18,10:00,10:18,Pune (PNQ),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",600,618,18,10,0,False,Minor Delay,False,Domestic
+SG9627,2025-08-18,19:15,19:15,Chennai (MAA),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1155,1155,0,19,0,False,Early,True,Domestic
+QP8397,2025-08-18,11:30,11:39,Kolkata (CCU),B737,Akasa Air,"('QP', 'Akasa Air', 0.03)",690,699,9,11,0,False,On Time,False,Domestic
+6E4049,2025-08-18,14:00,14:04,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",840,844,4,14,0,False,On Time,False,Domestic
+6E4980,2025-08-18,11:15,11:23,Ahmedabad (AMD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",675,683,8,11,0,False,On Time,False,Domestic
+AI5721,2025-08-18,20:00,20:11,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",1200,1211,11,20,0,False,On Time,True,Domestic
+SG4342,2025-08-18,19:45,20:25,Cochin (COK),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",1185,1225,40,19,0,False,Major Delay,True,Domestic
+AI4374,2025-08-18,21:00,21:00,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",1260,1260,0,21,0,False,Early,False,Domestic
+6E6338,2025-08-18,06:45,07:00,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",405,420,15,6,0,False,On Time,True,Domestic
+6E1632,2025-08-18,07:30,07:44,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",450,464,14,7,0,False,On Time,True,Domestic
+UK1365,2025-08-18,10:30,10:36,Ahmedabad (AMD),B787,Vistara,"('UK', 'Vistara', 0.1)",630,636,6,10,0,False,On Time,False,Domestic
+IX4383,2025-08-18,05:15,05:34,Delhi (DEL),A320,Air India Express,"('IX', 'Air India Express', 0.05)",315,334,19,5,0,False,Minor Delay,False,Domestic
+6E9934,2025-08-18,09:30,10:11,Chennai (MAA),A321,IndiGo,"('6E', 'IndiGo', 0.4)",570,611,41,9,0,False,Major Delay,True,Domestic
+AI4712,2025-08-18,06:30,06:46,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",390,406,16,6,0,False,Minor Delay,True,Domestic
+6E3493,2025-08-18,08:45,08:48,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",525,528,3,8,0,False,On Time,True,Domestic
+6E2181,2025-08-18,05:00,05:07,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",300,307,7,5,0,False,On Time,False,Domestic
+6E9902,2025-08-18,11:15,11:37,London (LHR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",675,697,22,11,0,False,Minor Delay,False,International
+UK7926,2025-08-18,08:00,08:38,Goa (GOI),A320,Vistara,"('UK', 'Vistara', 0.1)",480,518,38,8,0,False,Major Delay,True,Domestic
+AI3485,2025-08-18,16:45,17:08,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",1005,1028,23,16,0,False,Minor Delay,False,Domestic
+6E4783,2025-08-18,09:30,10:07,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",570,607,37,9,0,False,Major Delay,True,Domestic
+UK8874,2025-08-18,16:15,16:42,Chennai (MAA),A320,Vistara,"('UK', 'Vistara', 0.1)",975,1002,27,16,0,False,Minor Delay,False,Domestic
+AI9218,2025-08-18,17:45,18:03,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1065,1083,18,17,0,False,Minor Delay,True,Domestic
+SG4793,2025-08-18,06:00,06:07,Singapore (SIN),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",360,367,7,6,0,False,On Time,True,International
+6E2537,2025-08-18,22:45,22:55,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1375,10,22,0,False,On Time,False,Domestic
+SG7100,2025-08-18,06:15,06:36,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",375,396,21,6,0,False,Minor Delay,True,Domestic
+6E2397,2025-08-18,11:15,11:27,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",675,687,12,11,0,False,On Time,False,Domestic
+SG9290,2025-08-18,15:15,15:45,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",915,945,30,15,0,False,Minor Delay,False,Domestic
+AI4060,2025-08-18,09:45,10:24,Ahmedabad (AMD),B738,Air India,"('AI', 'Air India', 0.3)",585,624,39,9,0,False,Major Delay,True,Domestic
+IX7563,2025-08-18,22:15,22:32,London (LHR),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1335,1352,17,22,0,False,Minor Delay,False,International
+SG7021,2025-08-18,09:45,10:26,Delhi (DEL),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",585,626,41,9,0,False,Major Delay,True,Domestic
+6E6831,2025-08-18,15:30,15:40,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",930,940,10,15,0,False,On Time,False,Domestic
+6E6457,2025-08-18,13:30,13:31,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",810,811,1,13,0,False,On Time,False,Domestic
+AI3565,2025-08-18,23:45,23:56,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",1425,1436,11,23,0,False,On Time,False,Domestic
+SG6420,2025-08-18,18:00,18:30,Bengaluru (BLR),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1080,1110,30,18,0,False,Minor Delay,True,Domestic
+AI7671,2025-08-18,14:00,14:08,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",840,848,8,14,0,False,On Time,False,Domestic
+AI4662,2025-08-18,13:45,13:45,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",825,825,0,13,0,False,Early,False,Domestic
+6E3565,2025-08-18,07:15,07:47,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",435,467,32,7,0,False,Major Delay,True,Domestic
+6E5431,2025-08-18,21:00,21:13,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1273,13,21,0,False,On Time,False,Domestic
+SG9598,2025-08-18,08:30,08:47,Ahmedabad (AMD),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",510,527,17,8,0,False,Minor Delay,True,Domestic
+6E2244,2025-08-18,14:00,14:06,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",840,846,6,14,0,False,On Time,False,Domestic
+UK3595,2025-08-18,18:00,18:33,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",1080,1113,33,18,0,False,Major Delay,True,Domestic
+SG2865,2025-08-18,14:15,14:26,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",855,866,11,14,0,False,On Time,False,Domestic
+6E2574,2025-08-18,06:00,06:26,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",360,386,26,6,0,False,Minor Delay,True,Domestic
+AI8321,2025-08-18,19:15,19:37,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",1155,1177,22,19,0,False,Minor Delay,True,Domestic
+QP1242,2025-08-18,06:30,07:16,Delhi (DEL),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",390,436,46,6,0,False,Major Delay,True,Domestic
+QP8683,2025-08-18,08:30,08:57,Bengaluru (BLR),B738,Akasa Air,"('QP', 'Akasa Air', 0.03)",510,537,27,8,0,False,Minor Delay,True,Domestic
+6E5347,2025-08-18,14:00,14:06,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",840,846,6,14,0,False,On Time,False,Domestic
+SG7339,2025-08-18,13:30,13:37,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",810,817,7,13,0,False,On Time,False,Domestic
+6E1168,2025-08-18,15:45,15:52,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",945,952,7,15,0,False,On Time,False,Domestic
+6E9119,2025-08-18,10:30,11:03,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",630,663,33,10,0,False,Major Delay,False,Domestic
+AI2417,2025-08-18,11:00,11:19,Kolkata (CCU),B737,Air India,"('AI', 'Air India', 0.3)",660,679,19,11,0,False,Minor Delay,False,Domestic
+AI3176,2025-08-18,14:45,14:46,Hyderabad (HYD),B787,Air India,"('AI', 'Air India', 0.3)",885,886,1,14,0,False,On Time,False,Domestic
+QP6477,2025-08-18,21:15,21:35,Ahmedabad (AMD),B787,Akasa Air,"('QP', 'Akasa Air', 0.03)",1275,1295,20,21,0,False,Minor Delay,False,Domestic
+AI1081,2025-08-18,10:00,10:16,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",600,616,16,10,0,False,Minor Delay,False,Domestic
+IX3045,2025-08-18,12:15,12:42,Chennai (MAA),A350,Air India Express,"('IX', 'Air India Express', 0.05)",735,762,27,12,0,False,Minor Delay,False,Domestic
+6E1280,2025-08-18,23:15,23:20,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1400,5,23,0,False,On Time,False,Domestic
+AI1580,2025-08-18,18:15,19:14,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1095,1154,59,18,0,False,Major Delay,True,Domestic
+UK8948,2025-08-18,12:45,12:57,Jaipur (JAI),A320,Vistara,"('UK', 'Vistara', 0.1)",765,777,12,12,0,False,On Time,False,Domestic
+6E7871,2025-08-18,10:45,11:05,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",645,665,20,10,0,False,Minor Delay,False,Domestic
+AI7418,2025-08-18,18:15,18:32,Pune (PNQ),A350,Air India,"('AI', 'Air India', 0.3)",1095,1112,17,18,0,False,Minor Delay,True,Domestic
+6E3533,2025-08-18,09:15,09:36,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",555,576,21,9,0,False,Minor Delay,True,Domestic
+6E8265,2025-08-18,09:30,10:04,Pune (PNQ),B738,IndiGo,"('6E', 'IndiGo', 0.4)",570,604,34,9,0,False,Major Delay,True,Domestic
+6E8244,2025-08-18,20:45,21:14,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1245,1274,29,20,0,False,Minor Delay,True,Domestic
+AI3521,2025-08-18,06:15,06:34,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",375,394,19,6,0,False,Minor Delay,True,Domestic
+6E8775,2025-08-18,14:45,14:45,Jaipur (JAI),B777,IndiGo,"('6E', 'IndiGo', 0.4)",885,885,0,14,0,False,Early,False,Domestic
+AI1484,2025-08-18,14:45,14:53,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",885,893,8,14,0,False,On Time,False,Domestic
+6E9793,2025-08-18,09:45,09:52,Hyderabad (HYD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",585,592,7,9,0,False,On Time,True,Domestic
+AI3549,2025-08-19,08:45,09:16,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",525,556,31,8,1,False,Major Delay,True,Domestic
+AI2913,2025-08-19,11:00,11:05,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",660,665,5,11,1,False,On Time,False,Domestic
+AI8275,2025-08-19,07:45,08:28,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",465,508,43,7,1,False,Major Delay,True,Domestic
+6E3294,2025-08-19,09:15,09:36,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",555,576,21,9,1,False,Minor Delay,True,Domestic
+AI5705,2025-08-19,10:00,10:14,Pune (PNQ),A321,Air India,"('AI', 'Air India', 0.3)",600,614,14,10,1,False,On Time,False,Domestic
+UK6341,2025-08-19,15:30,15:32,Delhi (DEL),B777,Vistara,"('UK', 'Vistara', 0.1)",930,932,2,15,1,False,On Time,False,Domestic
+AI9566,2025-08-19,12:45,12:45,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",765,765,0,12,1,False,Early,False,Domestic
+6E6426,2025-08-19,12:00,12:17,Pune (PNQ),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",720,737,17,12,1,False,Minor Delay,False,Domestic
+AI5147,2025-08-19,05:15,05:19,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",315,319,4,5,1,False,On Time,False,Domestic
+SG6248,2025-08-19,16:45,16:45,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1005,1005,0,16,1,False,Early,False,Domestic
+6E9288,2025-08-19,18:15,18:26,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1106,11,18,1,False,On Time,True,Domestic
+6E1851,2025-08-19,08:45,09:15,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",525,555,30,8,1,False,Minor Delay,True,Domestic
+6E7774,2025-08-19,20:00,20:11,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1200,1211,11,20,1,False,On Time,True,Domestic
+6E5340,2025-08-19,11:15,11:43,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",675,703,28,11,1,False,Minor Delay,False,Domestic
+UK4585,2025-08-19,20:15,20:15,Ahmedabad (AMD),A350,Vistara,"('UK', 'Vistara', 0.1)",1215,1215,0,20,1,False,Early,True,Domestic
+QP5849,2025-08-19,20:00,20:37,Cochin (COK),B787,Akasa Air,"('QP', 'Akasa Air', 0.03)",1200,1237,37,20,1,False,Major Delay,True,Domestic
+6E5374,2025-08-19,16:15,16:41,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",975,1001,26,16,1,False,Minor Delay,False,Domestic
+QP3782,2025-08-19,17:30,18:07,Delhi (DEL),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",1050,1087,37,17,1,False,Major Delay,True,Domestic
+UK9034,2025-08-19,19:00,19:26,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",1140,1166,26,19,1,False,Minor Delay,True,Domestic
+IX6522,2025-08-19,21:45,22:21,Kolkata (CCU),B787,Air India Express,"('IX', 'Air India Express', 0.05)",1305,1341,36,21,1,False,Major Delay,False,Domestic
+AI6694,2025-08-19,11:45,11:54,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",705,714,9,11,1,False,On Time,False,Domestic
+6E2271,2025-08-19,17:30,17:41,Cochin (COK),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1061,11,17,1,False,On Time,True,Domestic
+AI4350,2025-08-19,12:00,12:17,Bengaluru (BLR),B738,Air India,"('AI', 'Air India', 0.3)",720,737,17,12,1,False,Minor Delay,False,Domestic
+6E2554,2025-08-19,17:45,18:21,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1065,1101,36,17,1,False,Major Delay,True,Domestic
+6E2434,2025-08-19,05:15,05:31,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",315,331,16,5,1,False,Minor Delay,False,Domestic
+6E9280,2025-08-19,20:00,20:31,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1200,1231,31,20,1,False,Major Delay,True,Domestic
+SG7803,2025-08-19,19:00,19:22,Chennai (MAA),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1140,1162,22,19,1,False,Minor Delay,True,Domestic
+6E5860,2025-08-19,22:45,23:10,Pune (PNQ),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1390,25,22,1,False,Minor Delay,False,Domestic
+AI2642,2025-08-19,15:15,15:25,Kolkata (CCU),ATR72,Air India,"('AI', 'Air India', 0.3)",915,925,10,15,1,False,On Time,False,Domestic
+6E9936,2025-08-19,18:00,18:25,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1105,25,18,1,False,Minor Delay,True,Domestic
+6E3699,2025-08-19,21:30,21:40,Dubai (DXB),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1300,10,21,1,False,On Time,False,International
+SG3083,2025-08-19,06:00,06:35,Bengaluru (BLR),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",360,395,35,6,1,False,Major Delay,True,Domestic
+6E9567,2025-08-19,18:00,18:14,Hyderabad (HYD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1094,14,18,1,False,On Time,True,Domestic
+IX8397,2025-08-19,19:30,19:54,Jaipur (JAI),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1170,1194,24,19,1,False,Minor Delay,True,Domestic
+AI7474,2025-08-19,09:15,09:52,Pune (PNQ),ATR72,Air India,"('AI', 'Air India', 0.3)",555,592,37,9,1,False,Major Delay,True,Domestic
+6E5152,2025-08-19,20:45,21:17,Hyderabad (HYD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1245,1277,32,20,1,False,Major Delay,True,Domestic
+SG2857,2025-08-19,13:30,13:45,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",810,825,15,13,1,False,On Time,False,Domestic
+6E7777,2025-08-19,12:15,12:31,Cochin (COK),B787,IndiGo,"('6E', 'IndiGo', 0.4)",735,751,16,12,1,False,Minor Delay,False,Domestic
+UK1730,2025-08-19,05:15,05:17,Jaipur (JAI),A350,Vistara,"('UK', 'Vistara', 0.1)",315,317,2,5,1,False,On Time,False,Domestic
+IX8152,2025-08-19,05:45,05:53,Delhi (DEL),B787,Air India Express,"('IX', 'Air India Express', 0.05)",345,353,8,5,1,False,On Time,False,Domestic
+UK8212,2025-08-19,15:45,15:50,Bangkok (BKK),B777,Vistara,"('UK', 'Vistara', 0.1)",945,950,5,15,1,False,On Time,False,International
+AI2245,2025-08-19,16:45,16:50,Cochin (COK),B738,Air India,"('AI', 'Air India', 0.3)",1005,1010,5,16,1,False,On Time,False,Domestic
+AI8172,2025-08-19,23:30,23:42,Hyderabad (HYD),B777,Air India,"('AI', 'Air India', 0.3)",1410,1422,12,23,1,False,On Time,False,Domestic
+AI9702,2025-08-19,22:15,22:27,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",1335,1347,12,22,1,False,On Time,False,Domestic
+AI2994,2025-08-19,06:45,06:55,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",405,415,10,6,1,False,On Time,True,Domestic
+6E8960,2025-08-19,21:15,21:20,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1280,5,21,1,False,On Time,False,Domestic
+6E2095,2025-08-19,12:15,12:27,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",735,747,12,12,1,False,On Time,False,Domestic
+6E7114,2025-08-19,12:15,12:25,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",735,745,10,12,1,False,On Time,False,Domestic
+AI7187,2025-08-19,23:15,23:25,Pune (PNQ),B787,Air India,"('AI', 'Air India', 0.3)",1395,1405,10,23,1,False,On Time,False,Domestic
+6E7411,2025-08-19,12:00,12:00,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",720,720,0,12,1,False,Early,False,Domestic
+6E5586,2025-08-19,11:00,11:03,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",660,663,3,11,1,False,On Time,False,Domestic
+6E7898,2025-08-19,22:45,23:07,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1387,22,22,1,False,Minor Delay,False,Domestic
+6E3620,2025-08-19,06:45,07:13,Singapore (SIN),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",405,433,28,6,1,False,Minor Delay,True,International
+6E6732,2025-08-19,19:45,20:06,Dubai (DXB),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1206,21,19,1,False,Minor Delay,True,International
+SG5658,2025-08-19,14:30,14:46,Goa (GOI),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",870,886,16,14,1,False,Minor Delay,False,Domestic
+UK9912,2025-08-19,07:30,07:53,Kolkata (CCU),A320,Vistara,"('UK', 'Vistara', 0.1)",450,473,23,7,1,False,Minor Delay,True,Domestic
+6E8260,2025-08-19,10:30,10:33,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",630,633,3,10,1,False,On Time,False,Domestic
+6E2801,2025-08-19,06:30,06:52,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",390,412,22,6,1,False,Minor Delay,True,Domestic
+6E8871,2025-08-19,15:45,16:04,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",945,964,19,15,1,False,Minor Delay,False,Domestic
+SG2972,2025-08-19,06:45,07:01,Pune (PNQ),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",405,421,16,6,1,False,Minor Delay,True,Domestic
+AI7798,2025-08-19,19:45,20:27,Goa (GOI),A321,Air India,"('AI', 'Air India', 0.3)",1185,1227,42,19,1,False,Major Delay,True,Domestic
+6E7914,2025-08-19,19:00,19:45,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1185,45,19,1,False,Major Delay,True,Domestic
+6E8030,2025-08-19,15:45,15:53,Ahmedabad (AMD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",945,953,8,15,1,False,On Time,False,Domestic
+6E5933,2025-08-19,14:30,14:30,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",870,870,0,14,1,False,Early,False,Domestic
+6E5797,2025-08-19,06:30,07:13,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",390,433,43,6,1,False,Major Delay,True,Domestic
+SG8355,2025-08-19,18:45,19:28,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1125,1168,43,18,1,False,Major Delay,True,Domestic
+6E8946,2025-08-19,23:15,23:30,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1410,15,23,1,False,On Time,False,Domestic
+AI1981,2025-08-19,22:30,22:30,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1350,1350,0,22,1,False,Early,False,Domestic
+AI9655,2025-08-19,18:15,18:41,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",1095,1121,26,18,1,False,Minor Delay,True,Domestic
+6E6303,2025-08-19,14:15,14:15,Ahmedabad (AMD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",855,855,0,14,1,False,Early,False,Domestic
+IX9197,2025-08-19,14:15,14:21,Goa (GOI),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",855,861,6,14,1,False,On Time,False,Domestic
+SG6677,2025-08-19,23:00,23:10,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1380,1390,10,23,1,False,On Time,False,Domestic
+6E1437,2025-08-19,05:30,05:49,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",330,349,19,5,1,False,Minor Delay,False,Domestic
+AI8001,2025-08-19,14:45,14:52,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",885,892,7,14,1,False,On Time,False,Domestic
+AI2788,2025-08-19,11:45,12:09,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",705,729,24,11,1,False,Minor Delay,False,Domestic
+UK9867,2025-08-19,11:15,11:24,Delhi (DEL),ATR72,Vistara,"('UK', 'Vistara', 0.1)",675,684,9,11,1,False,On Time,False,Domestic
+AI8712,2025-08-19,14:30,14:54,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",870,894,24,14,1,False,Minor Delay,False,Domestic
+6E3637,2025-08-19,09:30,09:58,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",570,598,28,9,1,False,Minor Delay,True,Domestic
+SG3000,2025-08-19,17:30,17:57,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1050,1077,27,17,1,False,Minor Delay,True,Domestic
+6E8531,2025-08-19,09:15,09:49,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",555,589,34,9,1,False,Major Delay,True,Domestic
+6E5058,2025-08-19,18:45,19:23,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1163,38,18,1,False,Major Delay,True,Domestic
+6E8197,2025-08-19,12:15,12:36,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",735,756,21,12,1,False,Minor Delay,False,Domestic
+6E2166,2025-08-19,09:30,09:58,Cochin (COK),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",570,598,28,9,1,False,Minor Delay,True,Domestic
+SG5902,2025-08-19,21:15,21:34,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1275,1294,19,21,1,False,Minor Delay,False,Domestic
+6E6046,2025-08-19,07:15,07:29,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",435,449,14,7,1,False,On Time,True,Domestic
+6E3569,2025-08-19,08:30,08:35,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",510,515,5,8,1,False,On Time,True,Domestic
+AI3458,2025-08-19,19:45,20:11,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1185,1211,26,19,1,False,Minor Delay,True,Domestic
+6E1309,2025-08-19,12:00,12:10,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",720,730,10,12,1,False,On Time,False,Domestic
+6E7611,2025-08-19,07:45,08:20,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",465,500,35,7,1,False,Major Delay,True,Domestic
+IX6445,2025-08-19,09:15,09:45,Bengaluru (BLR),A350,Air India Express,"('IX', 'Air India Express', 0.05)",555,585,30,9,1,False,Minor Delay,True,Domestic
+AI2810,2025-08-19,23:30,23:39,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",1410,1419,9,23,1,False,On Time,False,Domestic
+UK7586,2025-08-19,14:15,14:53,Delhi (DEL),A320,Vistara,"('UK', 'Vistara', 0.1)",855,893,38,14,1,False,Major Delay,False,Domestic
+6E5684,2025-08-19,06:15,06:28,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",375,388,13,6,1,False,On Time,True,Domestic
+AI5577,2025-08-19,07:00,07:22,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",420,442,22,7,1,False,Minor Delay,True,Domestic
+6E7346,2025-08-19,15:30,15:36,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",930,936,6,15,1,False,On Time,False,Domestic
+AI4643,2025-08-19,15:00,15:20,Kolkata (CCU),B787,Air India,"('AI', 'Air India', 0.3)",900,920,20,15,1,False,Minor Delay,False,Domestic
+6E4553,2025-08-19,12:15,12:56,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",735,776,41,12,1,False,Major Delay,False,Domestic
+6E6960,2025-08-19,22:45,22:53,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1373,8,22,1,False,On Time,False,Domestic
+6E6621,2025-08-19,21:15,21:22,Goa (GOI),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1282,7,21,1,False,On Time,False,Domestic
+AI7193,2025-08-19,12:15,12:30,Kolkata (CCU),B777,Air India,"('AI', 'Air India', 0.3)",735,750,15,12,1,False,On Time,False,Domestic
+AI1265,2025-08-19,07:45,08:16,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",465,496,31,7,1,False,Major Delay,True,Domestic
+SG3559,2025-08-19,07:15,07:34,Kolkata (CCU),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",435,454,19,7,1,False,Minor Delay,True,Domestic
+6E5904,2025-08-19,12:45,12:59,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",765,779,14,12,1,False,On Time,False,Domestic
+6E3382,2025-08-19,14:00,14:07,Goa (GOI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",840,847,7,14,1,False,On Time,False,Domestic
+SG1193,2025-08-19,11:45,11:45,Ahmedabad (AMD),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",705,705,0,11,1,False,Early,False,Domestic
+AI1935,2025-08-19,06:15,06:47,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",375,407,32,6,1,False,Major Delay,True,Domestic
+6E6264,2025-08-19,08:15,08:40,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",495,520,25,8,1,False,Minor Delay,True,Domestic
+SG4065,2025-08-19,13:00,13:18,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",780,798,18,13,1,False,Minor Delay,False,Domestic
+6E1521,2025-08-19,23:45,23:45,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1425,1425,0,23,1,False,Early,False,Domestic
+6E7503,2025-08-19,06:30,06:38,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",390,398,8,6,1,False,On Time,True,Domestic
+AI5626,2025-08-19,13:00,13:19,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",780,799,19,13,1,False,Minor Delay,False,Domestic
+6E4508,2025-08-19,09:30,09:51,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",570,591,21,9,1,False,Minor Delay,True,Domestic
+AI5906,2025-08-19,11:45,11:48,Jaipur (JAI),ATR72,Air India,"('AI', 'Air India', 0.3)",705,708,3,11,1,False,On Time,False,Domestic
+AI7768,2025-08-19,20:00,20:02,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1200,1202,2,20,1,False,On Time,True,Domestic
+UK3632,2025-08-19,18:45,19:22,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",1125,1162,37,18,1,False,Major Delay,True,Domestic
+6E7233,2025-08-19,12:45,12:55,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",765,775,10,12,1,False,On Time,False,Domestic
+6E9554,2025-08-19,06:45,07:08,Hyderabad (HYD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",405,428,23,6,1,False,Minor Delay,True,Domestic
+6E8426,2025-08-19,14:15,14:15,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",855,855,0,14,1,False,Early,False,Domestic
+AI4688,2025-08-19,20:00,20:50,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",1200,1250,50,20,1,False,Major Delay,True,Domestic
+IX7844,2025-08-19,22:45,22:55,Delhi (DEL),B738,Air India Express,"('IX', 'Air India Express', 0.05)",1365,1375,10,22,1,False,On Time,False,Domestic
+6E6971,2025-08-19,08:00,08:31,Goa (GOI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",480,511,31,8,1,False,Major Delay,True,Domestic
+AI3721,2025-08-19,07:15,08:02,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",435,482,47,7,1,False,Major Delay,True,Domestic
+SG5314,2025-08-19,08:45,09:05,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",525,545,20,8,1,False,Minor Delay,True,Domestic
+UK7603,2025-08-19,15:45,15:57,Pune (PNQ),A320,Vistara,"('UK', 'Vistara', 0.1)",945,957,12,15,1,False,On Time,False,Domestic
+UK3726,2025-08-19,05:15,05:34,Kolkata (CCU),B777,Vistara,"('UK', 'Vistara', 0.1)",315,334,19,5,1,False,Minor Delay,False,Domestic
+6E8994,2025-08-19,15:00,15:17,Cochin (COK),A320,IndiGo,"('6E', 'IndiGo', 0.4)",900,917,17,15,1,False,Minor Delay,False,Domestic
+6E6719,2025-08-19,22:15,22:23,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1343,8,22,1,False,On Time,False,Domestic
+AI6612,2025-08-19,22:30,22:40,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",1350,1360,10,22,1,False,On Time,False,Domestic
+6E4109,2025-08-19,16:45,17:01,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1021,16,16,1,False,Minor Delay,False,Domestic
+6E2075,2025-08-19,14:30,14:37,Ahmedabad (AMD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",870,877,7,14,1,False,On Time,False,Domestic
+6E7375,2025-08-19,12:15,12:15,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",735,735,0,12,1,False,Early,False,Domestic
+6E7696,2025-08-19,21:00,21:00,Jaipur (JAI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1260,0,21,1,False,Early,False,Domestic
+SG4770,2025-08-19,15:45,15:58,Chennai (MAA),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",945,958,13,15,1,False,On Time,False,Domestic
+6E6540,2025-08-19,11:00,11:00,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",660,660,0,11,1,False,Early,False,Domestic
+6E7313,2025-08-19,10:45,10:57,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",645,657,12,10,1,False,On Time,False,Domestic
+6E6331,2025-08-19,17:15,18:02,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1035,1082,47,17,1,False,Major Delay,True,Domestic
+AI3405,2025-08-19,09:15,10:08,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",555,608,53,9,1,False,Major Delay,True,Domestic
+AI5099,2025-08-19,05:45,05:49,Goa (GOI),B787,Air India,"('AI', 'Air India', 0.3)",345,349,4,5,1,False,On Time,False,Domestic
+6E7605,2025-08-19,10:00,10:23,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",600,623,23,10,1,False,Minor Delay,False,Domestic
+UK5761,2025-08-19,18:15,18:26,Delhi (DEL),ATR72,Vistara,"('UK', 'Vistara', 0.1)",1095,1106,11,18,1,False,On Time,True,Domestic
+6E7054,2025-08-19,21:30,21:43,Pune (PNQ),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1303,13,21,1,False,On Time,False,Domestic
+6E4542,2025-08-19,18:30,19:02,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1142,32,18,1,False,Major Delay,True,Domestic
+6E4314,2025-08-19,14:45,14:50,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",885,890,5,14,1,False,On Time,False,Domestic
+SG9559,2025-08-19,07:00,07:21,Hyderabad (HYD),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",420,441,21,7,1,False,Minor Delay,True,Domestic
+6E6129,2025-08-19,17:00,17:02,Ahmedabad (AMD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1020,1022,2,17,1,False,On Time,True,Domestic
+AI4918,2025-08-19,06:15,06:34,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",375,394,19,6,1,False,Minor Delay,True,Domestic
+6E8025,2025-08-19,23:15,23:29,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1409,14,23,1,False,On Time,False,Domestic
+6E9754,2025-08-19,09:15,10:07,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",555,607,52,9,1,False,Major Delay,True,Domestic
+UK8457,2025-08-19,23:45,23:53,Bengaluru (BLR),B737,Vistara,"('UK', 'Vistara', 0.1)",1425,1433,8,23,1,False,On Time,False,Domestic
+UK7283,2025-08-19,16:15,16:48,Delhi (DEL),B737,Vistara,"('UK', 'Vistara', 0.1)",975,1008,33,16,1,False,Major Delay,False,Domestic
+AI9227,2025-08-19,21:30,21:30,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1290,1290,0,21,1,False,Early,False,Domestic
+6E7946,2025-08-19,13:00,13:16,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",780,796,16,13,1,False,Minor Delay,False,Domestic
+6E7638,2025-08-19,18:30,19:02,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1142,32,18,1,False,Major Delay,True,Domestic
+6E1725,2025-08-19,10:45,10:57,Ahmedabad (AMD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",645,657,12,10,1,False,On Time,False,Domestic
+AI5708,2025-08-19,15:15,15:28,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",915,928,13,15,1,False,On Time,False,Domestic
+AI6998,2025-08-19,19:30,20:22,Goa (GOI),B737,Air India,"('AI', 'Air India', 0.3)",1170,1222,52,19,1,False,Major Delay,True,Domestic
+AI8953,2025-08-19,14:30,14:51,Pune (PNQ),B787,Air India,"('AI', 'Air India', 0.3)",870,891,21,14,1,False,Minor Delay,False,Domestic
+AI6994,2025-08-19,14:15,14:34,London (LHR),B777,Air India,"('AI', 'Air India', 0.3)",855,874,19,14,1,False,Minor Delay,False,International
+AI7977,2025-08-19,19:15,19:43,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",1155,1183,28,19,1,False,Minor Delay,True,Domestic
+6E8388,2025-08-19,19:45,20:17,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1217,32,19,1,False,Major Delay,True,Domestic
+UK3775,2025-08-19,17:00,17:17,Chennai (MAA),B737,Vistara,"('UK', 'Vistara', 0.1)",1020,1037,17,17,1,False,Minor Delay,True,Domestic
+UK4791,2025-08-19,09:45,10:45,Chennai (MAA),A321,Vistara,"('UK', 'Vistara', 0.1)",585,645,60,9,1,False,Major Delay,True,Domestic
+6E8676,2025-08-19,18:00,18:57,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1137,57,18,1,False,Major Delay,True,Domestic
+6E4314,2025-08-19,11:30,11:30,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",690,690,0,11,1,False,Early,False,Domestic
+6E4280,2025-08-19,11:45,11:45,Goa (GOI),A320,IndiGo,"('6E', 'IndiGo', 0.4)",705,705,0,11,1,False,Early,False,Domestic
+6E7489,2025-08-19,22:15,22:34,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1354,19,22,1,False,Minor Delay,False,Domestic
+6E5465,2025-08-19,16:15,16:37,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",975,997,22,16,1,False,Minor Delay,False,Domestic
+6E8832,2025-08-19,21:45,22:03,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1323,18,21,1,False,Minor Delay,False,Domestic
+6E5915,2025-08-19,17:30,18:08,Pune (PNQ),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1088,38,17,1,False,Major Delay,True,Domestic
+6E9315,2025-08-19,22:45,23:13,London (LHR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1393,28,22,1,False,Minor Delay,False,International
+QP1594,2025-08-19,13:45,13:48,Kolkata (CCU),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",825,828,3,13,1,False,On Time,False,Domestic
+QP5186,2025-08-19,05:30,05:44,Delhi (DEL),A321,Akasa Air,"('QP', 'Akasa Air', 0.03)",330,344,14,5,1,False,On Time,False,Domestic
+AI3992,2025-08-19,21:00,21:00,Bengaluru (BLR),A321,Air India,"('AI', 'Air India', 0.3)",1260,1260,0,21,1,False,Early,False,Domestic
+6E3739,2025-08-19,13:00,13:12,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",780,792,12,13,1,False,On Time,False,Domestic
+6E4467,2025-08-19,05:15,05:36,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",315,336,21,5,1,False,Minor Delay,False,Domestic
+SG1372,2025-08-19,23:45,00:27,Singapore (SIN),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1425,27,-1398,23,1,False,Early,False,International
+AI3407,2025-08-19,15:45,16:05,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",945,965,20,15,1,False,Minor Delay,False,Domestic
+AI8436,2025-08-19,21:00,21:12,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",1260,1272,12,21,1,False,On Time,False,Domestic
+6E6931,2025-08-19,15:15,15:38,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",915,938,23,15,1,False,Minor Delay,False,Domestic
+6E6061,2025-08-19,05:00,05:12,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",300,312,12,5,1,False,On Time,False,Domestic
+AI7111,2025-08-19,11:45,12:06,Hyderabad (HYD),B787,Air India,"('AI', 'Air India', 0.3)",705,726,21,11,1,False,Minor Delay,False,Domestic
+AI7032,2025-08-19,16:30,16:54,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",990,1014,24,16,1,False,Minor Delay,False,Domestic
+AI9936,2025-08-19,21:00,21:12,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",1260,1272,12,21,1,False,On Time,False,Domestic
+6E4759,2025-08-20,11:45,12:03,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",705,723,18,11,2,False,Minor Delay,False,Domestic
+6E8064,2025-08-20,05:45,06:06,Hyderabad (HYD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",345,366,21,5,2,False,Minor Delay,False,Domestic
+UK7401,2025-08-20,19:45,20:21,Bengaluru (BLR),B738,Vistara,"('UK', 'Vistara', 0.1)",1185,1221,36,19,2,False,Major Delay,True,Domestic
+AI4359,2025-08-20,07:30,07:41,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",450,461,11,7,2,False,On Time,True,Domestic
+SG3898,2025-08-20,15:30,15:37,Goa (GOI),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,937,7,15,2,False,On Time,False,Domestic
+AI7335,2025-08-20,10:15,10:15,Pune (PNQ),B777,Air India,"('AI', 'Air India', 0.3)",615,615,0,10,2,False,Early,False,Domestic
+AI3915,2025-08-20,13:30,13:30,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",810,810,0,13,2,False,Early,False,Domestic
+AI7813,2025-08-20,08:15,08:49,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",495,529,34,8,2,False,Major Delay,True,Domestic
+SG1240,2025-08-20,15:00,15:10,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",900,910,10,15,2,False,On Time,False,Domestic
+QP7006,2025-08-20,16:00,16:11,Delhi (DEL),B787,Akasa Air,"('QP', 'Akasa Air', 0.03)",960,971,11,16,2,False,On Time,False,Domestic
+6E1041,2025-08-20,21:45,21:50,London (LHR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1310,5,21,2,False,On Time,False,International
+6E5291,2025-08-20,09:15,09:48,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",555,588,33,9,2,False,Major Delay,True,Domestic
+AI2715,2025-08-20,09:15,09:59,London (LHR),B787,Air India,"('AI', 'Air India', 0.3)",555,599,44,9,2,False,Major Delay,True,International
+6E3838,2025-08-20,05:00,05:24,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",300,324,24,5,2,False,Minor Delay,False,Domestic
+6E9420,2025-08-20,11:45,11:59,Bengaluru (BLR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",705,719,14,11,2,False,On Time,False,Domestic
+6E6951,2025-08-20,07:30,07:52,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",450,472,22,7,2,False,Minor Delay,True,Domestic
+QP9081,2025-08-20,16:15,16:18,Delhi (DEL),A350,Akasa Air,"('QP', 'Akasa Air', 0.03)",975,978,3,16,2,False,On Time,False,Domestic
+AI8657,2025-08-20,09:15,09:49,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",555,589,34,9,2,False,Major Delay,True,Domestic
+6E7390,2025-08-20,09:15,09:33,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",555,573,18,9,2,False,Minor Delay,True,Domestic
+QP6086,2025-08-20,17:30,17:58,Bengaluru (BLR),B737,Akasa Air,"('QP', 'Akasa Air', 0.03)",1050,1078,28,17,2,False,Minor Delay,True,Domestic
+AI1726,2025-08-20,15:00,15:30,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",900,930,30,15,2,False,Minor Delay,False,Domestic
+6E5429,2025-08-20,07:15,07:36,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",435,456,21,7,2,False,Minor Delay,True,Domestic
+6E3061,2025-08-20,09:30,10:17,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",570,617,47,9,2,False,Major Delay,True,Domestic
+6E5647,2025-08-20,11:00,11:01,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",660,661,1,11,2,False,On Time,False,Domestic
+UK1682,2025-08-20,09:00,09:11,Delhi (DEL),A320,Vistara,"('UK', 'Vistara', 0.1)",540,551,11,9,2,False,On Time,True,Domestic
+AI5101,2025-08-20,10:15,10:22,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",615,622,7,10,2,False,On Time,False,Domestic
+QP3377,2025-08-20,07:30,07:47,Delhi (DEL),B737,Akasa Air,"('QP', 'Akasa Air', 0.03)",450,467,17,7,2,False,Minor Delay,True,Domestic
+AI1931,2025-08-20,12:00,12:06,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",720,726,6,12,2,False,On Time,False,Domestic
+6E5234,2025-08-20,21:30,21:45,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1305,15,21,2,False,On Time,False,Domestic
+AI1774,2025-08-20,09:30,09:43,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",570,583,13,9,2,False,On Time,True,Domestic
+6E1840,2025-08-20,09:15,10:03,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",555,603,48,9,2,False,Major Delay,True,Domestic
+AI9291,2025-08-20,10:30,10:41,Kolkata (CCU),ATR72,Air India,"('AI', 'Air India', 0.3)",630,641,11,10,2,False,On Time,False,Domestic
+6E5043,2025-08-20,20:30,20:56,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1256,26,20,2,False,Minor Delay,True,Domestic
+IX3120,2025-08-20,08:15,08:49,Chennai (MAA),A350,Air India Express,"('IX', 'Air India Express', 0.05)",495,529,34,8,2,False,Major Delay,True,Domestic
+6E2373,2025-08-20,18:15,18:37,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1117,22,18,2,False,Minor Delay,True,Domestic
+6E9464,2025-08-20,23:30,23:44,Dubai (DXB),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1424,14,23,2,False,On Time,False,International
+SG9212,2025-08-20,10:15,10:23,Delhi (DEL),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",615,623,8,10,2,False,On Time,False,Domestic
+IX7092,2025-08-20,13:15,13:15,Bengaluru (BLR),B737,Air India Express,"('IX', 'Air India Express', 0.05)",795,795,0,13,2,False,Early,False,Domestic
+UK8171,2025-08-20,19:45,20:32,Pune (PNQ),B777,Vistara,"('UK', 'Vistara', 0.1)",1185,1232,47,19,2,False,Major Delay,True,Domestic
+QP9575,2025-08-20,08:00,08:23,Delhi (DEL),A320,Akasa Air,"('QP', 'Akasa Air', 0.03)",480,503,23,8,2,False,Minor Delay,True,Domestic
+UK4616,2025-08-20,14:15,14:15,Hyderabad (HYD),B738,Vistara,"('UK', 'Vistara', 0.1)",855,855,0,14,2,False,Early,False,Domestic
+6E3486,2025-08-20,18:30,19:02,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1142,32,18,2,False,Major Delay,True,Domestic
+SG1351,2025-08-20,16:00,16:08,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",960,968,8,16,2,False,On Time,False,Domestic
+6E2729,2025-08-20,14:15,14:15,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",855,855,0,14,2,False,Early,False,Domestic
+AI2671,2025-08-20,08:45,09:38,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",525,578,53,8,2,False,Major Delay,True,Domestic
+6E5464,2025-08-20,18:45,19:17,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1157,32,18,2,False,Major Delay,True,Domestic
+QP1002,2025-08-20,20:45,21:37,Bengaluru (BLR),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",1245,1297,52,20,2,False,Major Delay,True,Domestic
+6E8910,2025-08-20,20:15,20:35,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1215,1235,20,20,2,False,Minor Delay,True,Domestic
+SG5774,2025-08-20,07:30,08:08,Chennai (MAA),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,488,38,7,2,False,Major Delay,True,Domestic
+UK6053,2025-08-20,08:45,09:25,Chennai (MAA),B777,Vistara,"('UK', 'Vistara', 0.1)",525,565,40,8,2,False,Major Delay,True,Domestic
+AI1416,2025-08-20,23:30,23:30,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1410,1410,0,23,2,False,Early,False,Domestic
+SG5384,2025-08-20,09:30,09:50,Bengaluru (BLR),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",570,590,20,9,2,False,Minor Delay,True,Domestic
+QP5153,2025-08-20,12:15,12:28,Delhi (DEL),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",735,748,13,12,2,False,On Time,False,Domestic
+6E5162,2025-08-20,10:00,10:21,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",600,621,21,10,2,False,Minor Delay,False,Domestic
+IX1872,2025-08-20,15:00,15:02,Chennai (MAA),A321,Air India Express,"('IX', 'Air India Express', 0.05)",900,902,2,15,2,False,On Time,False,Domestic
+UK4325,2025-08-20,16:15,16:19,Goa (GOI),ATR72,Vistara,"('UK', 'Vistara', 0.1)",975,979,4,16,2,False,On Time,False,Domestic
+AI2284,2025-08-20,22:15,22:15,Chennai (MAA),A350,Air India,"('AI', 'Air India', 0.3)",1335,1335,0,22,2,False,Early,False,Domestic
+6E3593,2025-08-20,09:45,09:56,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",585,596,11,9,2,False,On Time,True,Domestic
+6E3148,2025-08-20,21:00,21:14,Goa (GOI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1274,14,21,2,False,On Time,False,Domestic
+6E8193,2025-08-20,05:15,05:27,Dubai (DXB),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",315,327,12,5,2,False,On Time,False,International
+AI9495,2025-08-20,19:45,19:50,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",1185,1190,5,19,2,False,On Time,True,Domestic
+6E4453,2025-08-20,15:15,15:21,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",915,921,6,15,2,False,On Time,False,Domestic
+6E3311,2025-08-20,14:00,14:00,Hyderabad (HYD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",840,840,0,14,2,False,Early,False,Domestic
+6E7472,2025-08-20,14:15,14:22,Bangkok (BKK),A350,IndiGo,"('6E', 'IndiGo', 0.4)",855,862,7,14,2,False,On Time,False,International
+UK6576,2025-08-20,16:15,16:15,Jaipur (JAI),A321,Vistara,"('UK', 'Vistara', 0.1)",975,975,0,16,2,False,Early,False,Domestic
+AI4908,2025-08-20,22:30,22:43,Bangkok (BKK),B738,Air India,"('AI', 'Air India', 0.3)",1350,1363,13,22,2,False,On Time,False,International
+SG7584,2025-08-20,16:15,16:44,Delhi (DEL),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",975,1004,29,16,2,False,Minor Delay,False,Domestic
+6E9427,2025-08-20,21:15,21:21,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1281,6,21,2,False,On Time,False,Domestic
+6E8300,2025-08-20,09:15,09:37,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",555,577,22,9,2,False,Minor Delay,True,Domestic
+6E9426,2025-08-20,22:15,22:41,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1361,26,22,2,False,Minor Delay,False,Domestic
+AI7960,2025-08-20,21:45,21:59,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1305,1319,14,21,2,False,On Time,False,Domestic
+AI1329,2025-08-20,10:00,10:13,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",600,613,13,10,2,False,On Time,False,Domestic
+IX2614,2025-08-20,12:30,13:03,Hyderabad (HYD),A350,Air India Express,"('IX', 'Air India Express', 0.05)",750,783,33,12,2,False,Major Delay,False,Domestic
+UK9252,2025-08-20,13:30,13:39,Bengaluru (BLR),A350,Vistara,"('UK', 'Vistara', 0.1)",810,819,9,13,2,False,On Time,False,Domestic
+AI4202,2025-08-20,13:45,13:45,Cochin (COK),A350,Air India,"('AI', 'Air India', 0.3)",825,825,0,13,2,False,Early,False,Domestic
+6E9040,2025-08-20,11:00,11:25,Pune (PNQ),A321,IndiGo,"('6E', 'IndiGo', 0.4)",660,685,25,11,2,False,Minor Delay,False,Domestic
+6E1777,2025-08-20,18:45,19:13,Ahmedabad (AMD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1153,28,18,2,False,Minor Delay,True,Domestic
+SG6867,2025-08-20,09:30,09:45,Hyderabad (HYD),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",570,585,15,9,2,False,On Time,True,Domestic
+AI5538,2025-08-20,11:45,12:00,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",705,720,15,11,2,False,On Time,False,Domestic
+UK9076,2025-08-20,15:15,15:26,Pune (PNQ),A321,Vistara,"('UK', 'Vistara', 0.1)",915,926,11,15,2,False,On Time,False,Domestic
+UK5408,2025-08-20,20:30,21:16,Kolkata (CCU),ATR72,Vistara,"('UK', 'Vistara', 0.1)",1230,1276,46,20,2,False,Major Delay,True,Domestic
+6E8093,2025-08-20,08:00,08:23,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",480,503,23,8,2,False,Minor Delay,True,Domestic
+AI4711,2025-08-20,05:00,05:11,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",300,311,11,5,2,False,On Time,False,Domestic
+AI8452,2025-08-20,17:45,17:45,Chennai (MAA),A320,Air India,"('AI', 'Air India', 0.3)",1065,1065,0,17,2,False,Early,True,Domestic
+AI9669,2025-08-20,12:45,13:02,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",765,782,17,12,2,False,Minor Delay,False,Domestic
+6E9907,2025-08-20,23:15,23:15,Goa (GOI),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1395,0,23,2,False,Early,False,Domestic
+6E4422,2025-08-20,18:45,18:58,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1125,1138,13,18,2,False,On Time,True,Domestic
+6E9810,2025-08-20,09:00,09:16,Hyderabad (HYD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",540,556,16,9,2,False,Minor Delay,True,Domestic
+6E7712,2025-08-20,10:15,10:29,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",615,629,14,10,2,False,On Time,False,Domestic
+AI8312,2025-08-20,07:45,07:47,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",465,467,2,7,2,False,On Time,True,Domestic
+IX1079,2025-08-20,20:00,20:15,Ahmedabad (AMD),A320,Air India Express,"('IX', 'Air India Express', 0.05)",1200,1215,15,20,2,False,On Time,True,Domestic
+6E7140,2025-08-20,06:30,07:01,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",390,421,31,6,2,False,Major Delay,True,Domestic
+6E8948,2025-08-20,18:30,18:57,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1137,27,18,2,False,Minor Delay,True,Domestic
+UK3116,2025-08-20,05:00,05:14,Bengaluru (BLR),ATR72,Vistara,"('UK', 'Vistara', 0.1)",300,314,14,5,2,False,On Time,False,Domestic
+UK6204,2025-08-20,17:00,17:56,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",1020,1076,56,17,2,False,Major Delay,True,Domestic
+6E2770,2025-08-20,17:15,17:42,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1035,1062,27,17,2,False,Minor Delay,True,Domestic
+6E8850,2025-08-20,18:15,18:15,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1095,0,18,2,False,Early,True,Domestic
+QP7594,2025-08-20,18:45,18:48,Goa (GOI),A321,Akasa Air,"('QP', 'Akasa Air', 0.03)",1125,1128,3,18,2,False,On Time,True,Domestic
+QP7522,2025-08-20,14:00,14:01,Kolkata (CCU),B787,Akasa Air,"('QP', 'Akasa Air', 0.03)",840,841,1,14,2,False,On Time,False,Domestic
+IX7406,2025-08-20,18:45,19:06,Delhi (DEL),B787,Air India Express,"('IX', 'Air India Express', 0.05)",1125,1146,21,18,2,False,Minor Delay,True,Domestic
+AI9545,2025-08-20,23:45,23:52,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",1425,1432,7,23,2,False,On Time,False,Domestic
+SG5898,2025-08-20,15:30,15:43,Jaipur (JAI),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,943,13,15,2,False,On Time,False,Domestic
+AI8047,2025-08-20,22:30,22:40,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",1350,1360,10,22,2,False,On Time,False,Domestic
+AI3465,2025-08-20,13:00,13:21,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",780,801,21,13,2,False,Minor Delay,False,Domestic
+AI3662,2025-08-20,09:15,09:24,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",555,564,9,9,2,False,On Time,True,Domestic
+6E6448,2025-08-20,22:00,22:18,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1338,18,22,2,False,Minor Delay,False,Domestic
+AI7185,2025-08-20,06:00,06:00,Kolkata (CCU),A350,Air India,"('AI', 'Air India', 0.3)",360,360,0,6,2,False,Early,True,Domestic
+AI9695,2025-08-20,17:00,17:07,Goa (GOI),A320,Air India,"('AI', 'Air India', 0.3)",1020,1027,7,17,2,False,On Time,True,Domestic
+6E5856,2025-08-20,06:30,06:30,London (LHR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",390,390,0,6,2,False,Early,True,International
+6E6357,2025-08-20,23:15,23:47,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1427,32,23,2,False,Major Delay,False,Domestic
+6E8108,2025-08-20,07:00,07:15,Goa (GOI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",420,435,15,7,2,False,On Time,True,Domestic
+SG4322,2025-08-20,06:15,06:34,Kolkata (CCU),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",375,394,19,6,2,False,Minor Delay,True,Domestic
+SG4391,2025-08-20,10:30,10:46,Chennai (MAA),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",630,646,16,10,2,False,Minor Delay,False,Domestic
+SG5824,2025-08-20,13:30,13:35,Ahmedabad (AMD),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",810,815,5,13,2,False,On Time,False,Domestic
+SG8777,2025-08-20,22:30,22:36,Dubai (DXB),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1350,1356,6,22,2,False,On Time,False,International
+6E6362,2025-08-20,15:00,15:05,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",900,905,5,15,2,False,On Time,False,Domestic
+SG8084,2025-08-20,12:15,12:28,Kolkata (CCU),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",735,748,13,12,2,False,On Time,False,Domestic
+6E6347,2025-08-20,21:45,21:55,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1315,10,21,2,False,On Time,False,Domestic
+6E2087,2025-08-20,21:15,21:20,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1280,5,21,2,False,On Time,False,Domestic
+SG2162,2025-08-20,10:30,10:51,London (LHR),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",630,651,21,10,2,False,Minor Delay,False,International
+6E2636,2025-08-20,08:45,09:00,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",525,540,15,8,2,False,On Time,True,Domestic
+AI7825,2025-08-20,08:15,08:46,Bangkok (BKK),B787,Air India,"('AI', 'Air India', 0.3)",495,526,31,8,2,False,Major Delay,True,International
+6E2725,2025-08-20,12:15,12:22,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",735,742,7,12,2,False,On Time,False,Domestic
+6E2523,2025-08-20,11:15,11:48,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",675,708,33,11,2,False,Major Delay,False,Domestic
+UK7715,2025-08-20,13:15,13:29,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",795,809,14,13,2,False,On Time,False,Domestic
+6E6978,2025-08-20,08:15,08:57,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",495,537,42,8,2,False,Major Delay,True,Domestic
+6E7830,2025-08-20,06:30,06:56,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",390,416,26,6,2,False,Minor Delay,True,Domestic
+AI3070,2025-08-20,12:30,12:39,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",750,759,9,12,2,False,On Time,False,Domestic
+AI8734,2025-08-20,16:00,16:33,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",960,993,33,16,2,False,Major Delay,False,Domestic
+IX7464,2025-08-20,09:00,09:26,Bengaluru (BLR),B738,Air India Express,"('IX', 'Air India Express', 0.05)",540,566,26,9,2,False,Minor Delay,True,Domestic
+6E5012,2025-08-20,16:30,16:30,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",990,990,0,16,2,False,Early,False,Domestic
+AI9866,2025-08-20,11:45,11:54,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",705,714,9,11,2,False,On Time,False,Domestic
+6E7401,2025-08-20,07:45,08:06,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",465,486,21,7,2,False,Minor Delay,True,Domestic
+6E9108,2025-08-20,14:45,14:55,Hyderabad (HYD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",885,895,10,14,2,False,On Time,False,Domestic
+UK8602,2025-08-20,11:00,11:31,Ahmedabad (AMD),B738,Vistara,"('UK', 'Vistara', 0.1)",660,691,31,11,2,False,Major Delay,False,Domestic
+IX5627,2025-08-20,05:45,06:02,Goa (GOI),A321,Air India Express,"('IX', 'Air India Express', 0.05)",345,362,17,5,2,False,Minor Delay,False,Domestic
+AI6321,2025-08-20,15:15,15:25,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",915,925,10,15,2,False,On Time,False,Domestic
+SG4237,2025-08-20,16:15,16:27,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",975,987,12,16,2,False,On Time,False,Domestic
+UK6721,2025-08-20,09:00,09:27,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",540,567,27,9,2,False,Minor Delay,True,Domestic
+6E9782,2025-08-20,21:00,21:18,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1278,18,21,2,False,Minor Delay,False,Domestic
+6E2887,2025-08-20,23:00,23:04,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1384,4,23,2,False,On Time,False,Domestic
+6E8882,2025-08-20,07:45,07:55,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",465,475,10,7,2,False,On Time,True,Domestic
+UK4188,2025-08-20,22:45,23:08,Bengaluru (BLR),B737,Vistara,"('UK', 'Vistara', 0.1)",1365,1388,23,22,2,False,Minor Delay,False,Domestic
+UK2908,2025-08-20,06:45,07:24,Kolkata (CCU),B737,Vistara,"('UK', 'Vistara', 0.1)",405,444,39,6,2,False,Major Delay,True,Domestic
+AI2498,2025-08-20,10:15,10:33,Goa (GOI),B737,Air India,"('AI', 'Air India', 0.3)",615,633,18,10,2,False,Minor Delay,False,Domestic
+6E8924,2025-08-20,13:30,13:40,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",810,820,10,13,2,False,On Time,False,Domestic
+QP8893,2025-08-20,09:15,09:46,Jaipur (JAI),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",555,586,31,9,2,False,Major Delay,True,Domestic
+UK9997,2025-08-20,16:30,16:43,Chennai (MAA),A350,Vistara,"('UK', 'Vistara', 0.1)",990,1003,13,16,2,False,On Time,False,Domestic
+6E1645,2025-08-20,21:00,21:16,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1276,16,21,2,False,Minor Delay,False,Domestic
+AI3575,2025-08-20,18:15,18:36,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",1095,1116,21,18,2,False,Minor Delay,True,Domestic
+AI6512,2025-08-20,15:00,15:05,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",900,905,5,15,2,False,On Time,False,Domestic
+6E1837,2025-08-20,22:15,22:28,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1348,13,22,2,False,On Time,False,Domestic
+AI9802,2025-08-20,12:30,12:42,Goa (GOI),A350,Air India,"('AI', 'Air India', 0.3)",750,762,12,12,2,False,On Time,False,Domestic
+AI2035,2025-08-20,05:45,05:45,Chennai (MAA),A350,Air India,"('AI', 'Air India', 0.3)",345,345,0,5,2,False,Early,False,Domestic
+6E2090,2025-08-20,15:45,15:54,London (LHR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",945,954,9,15,2,False,On Time,False,International
+6E2440,2025-08-20,08:15,08:19,Bangkok (BKK),B738,IndiGo,"('6E', 'IndiGo', 0.4)",495,499,4,8,2,False,On Time,True,International
+6E4785,2025-08-20,18:30,18:51,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1131,21,18,2,False,Minor Delay,True,Domestic
+AI4450,2025-08-20,16:15,16:24,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",975,984,9,16,2,False,On Time,False,Domestic
+6E1041,2025-08-20,19:00,19:32,Chennai (MAA),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1172,32,19,2,False,Major Delay,True,Domestic
+AI2672,2025-08-20,18:15,18:42,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1095,1122,27,18,2,False,Minor Delay,True,Domestic
+6E7802,2025-08-20,08:45,09:03,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",525,543,18,8,2,False,Minor Delay,True,Domestic
+6E8934,2025-08-20,13:30,14:02,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",810,842,32,13,2,False,Major Delay,False,Domestic
+QP4404,2025-08-20,22:30,22:54,Chennai (MAA),A320,Akasa Air,"('QP', 'Akasa Air', 0.03)",1350,1374,24,22,2,False,Minor Delay,False,Domestic
+AI8505,2025-08-20,16:00,16:21,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",960,981,21,16,2,False,Minor Delay,False,Domestic
+IX1766,2025-08-20,16:45,16:46,Bengaluru (BLR),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1005,1006,1,16,2,False,On Time,False,Domestic
+UK2712,2025-08-20,09:45,10:31,Dubai (DXB),A321,Vistara,"('UK', 'Vistara', 0.1)",585,631,46,9,2,False,Major Delay,True,International
+6E2992,2025-08-20,10:15,10:33,Ahmedabad (AMD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",615,633,18,10,2,False,Minor Delay,False,Domestic
+SG3230,2025-08-20,15:00,15:27,Delhi (DEL),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",900,927,27,15,2,False,Minor Delay,False,Domestic
+IX3498,2025-08-20,14:00,14:15,Hyderabad (HYD),A320,Air India Express,"('IX', 'Air India Express', 0.05)",840,855,15,14,2,False,On Time,False,Domestic
+AI5847,2025-08-20,21:45,22:06,Hyderabad (HYD),B738,Air India,"('AI', 'Air India', 0.3)",1305,1326,21,21,2,False,Minor Delay,False,Domestic
+QP5568,2025-08-20,06:15,06:43,London (LHR),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",375,403,28,6,2,False,Minor Delay,True,International
+6E5361,2025-08-20,05:00,05:14,Hyderabad (HYD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",300,314,14,5,2,False,On Time,False,Domestic
+QP7757,2025-08-20,22:30,22:30,Chennai (MAA),A320,Akasa Air,"('QP', 'Akasa Air', 0.03)",1350,1350,0,22,2,False,Early,False,Domestic
+6E8555,2025-08-20,09:30,09:53,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",570,593,23,9,2,False,Minor Delay,True,Domestic
+6E6144,2025-08-20,19:45,19:45,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1185,0,19,2,False,Early,True,Domestic
+6E9932,2025-08-20,11:00,11:00,Cochin (COK),A321,IndiGo,"('6E', 'IndiGo', 0.4)",660,660,0,11,2,False,Early,False,Domestic
+6E4010,2025-08-20,18:15,18:16,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1096,1,18,2,False,On Time,True,Domestic
+IX7540,2025-08-20,22:30,22:42,Hyderabad (HYD),B737,Air India Express,"('IX', 'Air India Express', 0.05)",1350,1362,12,22,2,False,On Time,False,Domestic
+AI8209,2025-08-20,23:45,00:02,London (LHR),A350,Air India,"('AI', 'Air India', 0.3)",1425,2,-1423,23,2,False,Early,False,International
+SG8625,2025-08-20,05:30,05:36,Hyderabad (HYD),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",330,336,6,5,2,False,On Time,False,Domestic
+6E2232,2025-08-20,14:00,14:09,Goa (GOI),A320,IndiGo,"('6E', 'IndiGo', 0.4)",840,849,9,14,2,False,On Time,False,Domestic
+6E7683,2025-08-20,05:00,05:22,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",300,322,22,5,2,False,Minor Delay,False,Domestic
+IX1526,2025-08-20,21:30,21:47,Delhi (DEL),B737,Air India Express,"('IX', 'Air India Express', 0.05)",1290,1307,17,21,2,False,Minor Delay,False,Domestic
+AI4223,2025-08-20,21:00,21:17,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",1260,1277,17,21,2,False,Minor Delay,False,Domestic
+UK8314,2025-08-20,12:45,12:49,Kolkata (CCU),B737,Vistara,"('UK', 'Vistara', 0.1)",765,769,4,12,2,False,On Time,False,Domestic
+AI8628,2025-08-20,23:30,23:55,Hyderabad (HYD),ATR72,Air India,"('AI', 'Air India', 0.3)",1410,1435,25,23,2,False,Minor Delay,False,Domestic
+IX4299,2025-08-20,14:00,14:11,Chennai (MAA),B737,Air India Express,"('IX', 'Air India Express', 0.05)",840,851,11,14,2,False,On Time,False,Domestic
+SG4414,2025-08-20,17:30,17:54,Chennai (MAA),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1050,1074,24,17,2,False,Minor Delay,True,Domestic
+SG1526,2025-08-20,05:15,05:24,Chennai (MAA),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",315,324,9,5,2,False,On Time,False,Domestic
+SG1421,2025-08-20,22:45,23:04,Dubai (DXB),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1365,1384,19,22,2,False,Minor Delay,False,International
+6E1842,2025-08-20,20:00,20:14,Pune (PNQ),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1200,1214,14,20,2,False,On Time,True,Domestic
+SG5581,2025-08-20,09:30,09:53,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",570,593,23,9,2,False,Minor Delay,True,Domestic
+UK9657,2025-08-20,12:00,12:06,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",720,726,6,12,2,False,On Time,False,Domestic
+6E9389,2025-08-20,07:00,07:23,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",420,443,23,7,2,False,Minor Delay,True,Domestic
+6E5586,2025-08-20,18:00,18:06,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1086,6,18,2,False,On Time,True,Domestic
+6E1119,2025-08-20,22:15,22:33,Goa (GOI),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1353,18,22,2,False,Minor Delay,False,Domestic
+SG1710,2025-08-20,20:45,20:45,Bengaluru (BLR),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1245,1245,0,20,2,False,Early,True,Domestic
+AI9127,2025-08-20,19:00,19:14,Dubai (DXB),ATR72,Air India,"('AI', 'Air India', 0.3)",1140,1154,14,19,2,False,On Time,True,International
+SG8279,2025-08-20,07:30,07:30,Kolkata (CCU),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,450,0,7,2,False,Early,True,Domestic
+SG8726,2025-08-20,17:30,18:03,Bengaluru (BLR),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1050,1083,33,17,2,False,Major Delay,True,Domestic
+6E1441,2025-08-20,23:45,00:14,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1425,14,-1411,23,2,False,Early,False,Domestic
+6E9185,2025-08-20,14:15,14:16,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",855,856,1,14,2,False,On Time,False,Domestic
+AI7634,2025-08-20,08:45,09:29,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",525,569,44,8,2,False,Major Delay,True,Domestic
+AI5762,2025-08-20,08:00,08:00,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",480,480,0,8,2,False,Early,True,Domestic
+AI7792,2025-08-20,07:30,07:51,Pune (PNQ),B738,Air India,"('AI', 'Air India', 0.3)",450,471,21,7,2,False,Minor Delay,True,Domestic
+AI2702,2025-08-20,14:00,14:11,Goa (GOI),B777,Air India,"('AI', 'Air India', 0.3)",840,851,11,14,2,False,On Time,False,Domestic
+6E1123,2025-08-20,19:15,19:46,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1155,1186,31,19,2,False,Major Delay,True,Domestic
+6E9339,2025-08-20,12:30,12:43,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",750,763,13,12,2,False,On Time,False,Domestic
+6E6381,2025-08-20,23:45,23:59,Hyderabad (HYD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1425,1439,14,23,2,False,On Time,False,Domestic
+AI6382,2025-08-20,11:45,11:49,London (LHR),A321,Air India,"('AI', 'Air India', 0.3)",705,709,4,11,2,False,On Time,False,International
+AI4616,2025-08-20,06:15,06:32,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",375,392,17,6,2,False,Minor Delay,True,Domestic
+6E4354,2025-08-20,08:15,08:31,Bangkok (BKK),A320,IndiGo,"('6E', 'IndiGo', 0.4)",495,511,16,8,2,False,Minor Delay,True,International
+AI5210,2025-08-20,07:45,08:27,Pune (PNQ),ATR72,Air India,"('AI', 'Air India', 0.3)",465,507,42,7,2,False,Major Delay,True,Domestic
+6E1184,2025-08-20,23:45,23:55,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1425,1435,10,23,2,False,On Time,False,Domestic
+AI8641,2025-08-20,07:45,08:05,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",465,485,20,7,2,False,Minor Delay,True,Domestic
+6E4132,2025-08-20,15:30,15:30,Ahmedabad (AMD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",930,930,0,15,2,False,Early,False,Domestic
+6E6307,2025-08-20,21:00,21:18,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1278,18,21,2,False,Minor Delay,False,Domestic
+SG2254,2025-08-20,06:00,06:33,Bengaluru (BLR),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",360,393,33,6,2,False,Major Delay,True,Domestic
+SG8654,2025-08-21,17:15,17:20,Delhi (DEL),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1035,1040,5,17,3,False,On Time,True,Domestic
+UK4829,2025-08-21,08:15,08:32,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",495,512,17,8,3,False,Minor Delay,True,Domestic
+AI6322,2025-08-21,14:15,14:44,Hyderabad (HYD),B737,Air India,"('AI', 'Air India', 0.3)",855,884,29,14,3,False,Minor Delay,False,Domestic
+SG2301,2025-08-21,05:30,05:36,Cochin (COK),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",330,336,6,5,3,False,On Time,False,Domestic
+IX3945,2025-08-21,07:45,08:11,Hyderabad (HYD),B777,Air India Express,"('IX', 'Air India Express', 0.05)",465,491,26,7,3,False,Minor Delay,True,Domestic
+IX2452,2025-08-21,09:00,09:00,Delhi (DEL),B738,Air India Express,"('IX', 'Air India Express', 0.05)",540,540,0,9,3,False,Early,True,Domestic
+AI8504,2025-08-21,16:15,16:38,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",975,998,23,16,3,False,Minor Delay,False,Domestic
+IX2769,2025-08-21,14:15,14:26,Ahmedabad (AMD),B787,Air India Express,"('IX', 'Air India Express', 0.05)",855,866,11,14,3,False,On Time,False,Domestic
+6E9027,2025-08-21,16:45,16:45,Goa (GOI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1005,0,16,3,False,Early,False,Domestic
+AI3365,2025-08-21,21:00,21:11,Jaipur (JAI),B777,Air India,"('AI', 'Air India', 0.3)",1260,1271,11,21,3,False,On Time,False,Domestic
+AI7846,2025-08-21,06:30,07:19,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",390,439,49,6,3,False,Major Delay,True,Domestic
+AI4948,2025-08-21,17:00,17:27,Hyderabad (HYD),B777,Air India,"('AI', 'Air India', 0.3)",1020,1047,27,17,3,False,Minor Delay,True,Domestic
+6E8212,2025-08-21,23:00,23:24,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1404,24,23,3,False,Minor Delay,False,Domestic
+AI7683,2025-08-21,18:30,18:42,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",1110,1122,12,18,3,False,On Time,True,Domestic
+6E3328,2025-08-21,21:15,21:41,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1301,26,21,3,False,Minor Delay,False,Domestic
+6E2911,2025-08-21,21:00,21:31,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1291,31,21,3,False,Major Delay,False,Domestic
+UK4152,2025-08-21,08:45,09:09,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",525,549,24,8,3,False,Minor Delay,True,Domestic
+6E8203,2025-08-21,14:00,14:06,Pune (PNQ),A350,IndiGo,"('6E', 'IndiGo', 0.4)",840,846,6,14,3,False,On Time,False,Domestic
+SG1654,2025-08-21,10:00,10:27,Hyderabad (HYD),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",600,627,27,10,3,False,Minor Delay,False,Domestic
+QP3530,2025-08-21,08:15,08:49,Bengaluru (BLR),A350,Akasa Air,"('QP', 'Akasa Air', 0.03)",495,529,34,8,3,False,Major Delay,True,Domestic
+AI4997,2025-08-21,20:15,20:45,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1215,1245,30,20,3,False,Minor Delay,True,Domestic
+AI7990,2025-08-21,13:30,13:31,Kolkata (CCU),B787,Air India,"('AI', 'Air India', 0.3)",810,811,1,13,3,False,On Time,False,Domestic
+AI9324,2025-08-21,09:15,09:54,Chennai (MAA),B787,Air India,"('AI', 'Air India', 0.3)",555,594,39,9,3,False,Major Delay,True,Domestic
+AI9852,2025-08-21,19:45,19:46,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",1185,1186,1,19,3,False,On Time,True,Domestic
+AI7653,2025-08-21,07:00,07:45,Singapore (SIN),A350,Air India,"('AI', 'Air India', 0.3)",420,465,45,7,3,False,Major Delay,True,International
+6E3478,2025-08-21,17:30,18:04,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1084,34,17,3,False,Major Delay,True,Domestic
+6E9368,2025-08-21,09:00,09:21,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",540,561,21,9,3,False,Minor Delay,True,Domestic
+UK4218,2025-08-21,08:15,08:32,Chennai (MAA),ATR72,Vistara,"('UK', 'Vistara', 0.1)",495,512,17,8,3,False,Minor Delay,True,Domestic
+SG4229,2025-08-21,09:15,10:06,Delhi (DEL),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",555,606,51,9,3,False,Major Delay,True,Domestic
+6E9325,2025-08-21,19:30,19:31,Bangkok (BKK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1170,1171,1,19,3,False,On Time,True,International
+6E8879,2025-08-21,06:30,06:51,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",390,411,21,6,3,False,Minor Delay,True,Domestic
+AI5647,2025-08-21,14:00,14:23,Chennai (MAA),B738,Air India,"('AI', 'Air India', 0.3)",840,863,23,14,3,False,Minor Delay,False,Domestic
+SG1141,2025-08-21,05:15,05:33,Kolkata (CCU),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",315,333,18,5,3,False,Minor Delay,False,Domestic
+AI1614,2025-08-21,15:00,15:12,Pune (PNQ),B787,Air India,"('AI', 'Air India', 0.3)",900,912,12,15,3,False,On Time,False,Domestic
+AI1101,2025-08-21,08:30,09:00,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",510,540,30,8,3,False,Minor Delay,True,Domestic
+IX1607,2025-08-21,05:15,05:18,Goa (GOI),B738,Air India Express,"('IX', 'Air India Express', 0.05)",315,318,3,5,3,False,On Time,False,Domestic
+6E5839,2025-08-21,08:30,09:01,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",510,541,31,8,3,False,Major Delay,True,Domestic
+6E4385,2025-08-21,07:00,07:35,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",420,455,35,7,3,False,Major Delay,True,Domestic
+6E2551,2025-08-21,13:45,13:53,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",825,833,8,13,3,False,On Time,False,Domestic
+6E2698,2025-08-21,05:00,05:02,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",300,302,2,5,3,False,On Time,False,Domestic
+AI5912,2025-08-21,16:15,16:19,Bengaluru (BLR),B738,Air India,"('AI', 'Air India', 0.3)",975,979,4,16,3,False,On Time,False,Domestic
+6E7708,2025-08-21,09:00,09:31,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",540,571,31,9,3,False,Major Delay,True,Domestic
+AI5911,2025-08-21,13:15,13:31,Singapore (SIN),B738,Air India,"('AI', 'Air India', 0.3)",795,811,16,13,3,False,Minor Delay,False,International
+AI6094,2025-08-21,08:15,08:39,Pune (PNQ),B738,Air India,"('AI', 'Air India', 0.3)",495,519,24,8,3,False,Minor Delay,True,Domestic
+AI4684,2025-08-21,09:30,09:56,Cochin (COK),B738,Air India,"('AI', 'Air India', 0.3)",570,596,26,9,3,False,Minor Delay,True,Domestic
+IX8368,2025-08-21,20:15,20:29,Chennai (MAA),A321,Air India Express,"('IX', 'Air India Express', 0.05)",1215,1229,14,20,3,False,On Time,True,Domestic
+6E4953,2025-08-21,13:30,13:43,Pune (PNQ),B738,IndiGo,"('6E', 'IndiGo', 0.4)",810,823,13,13,3,False,On Time,False,Domestic
+IX7389,2025-08-21,09:30,10:05,Bengaluru (BLR),B787,Air India Express,"('IX', 'Air India Express', 0.05)",570,605,35,9,3,False,Major Delay,True,Domestic
+AI1222,2025-08-21,18:15,18:44,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",1095,1124,29,18,3,False,Minor Delay,True,Domestic
+SG7688,2025-08-21,23:30,23:35,Chennai (MAA),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1410,1415,5,23,3,False,On Time,False,Domestic
+6E6015,2025-08-21,12:15,12:36,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",735,756,21,12,3,False,Minor Delay,False,Domestic
+6E6064,2025-08-21,08:15,08:37,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",495,517,22,8,3,False,Minor Delay,True,Domestic
+UK6215,2025-08-21,15:00,15:04,Kolkata (CCU),B787,Vistara,"('UK', 'Vistara', 0.1)",900,904,4,15,3,False,On Time,False,Domestic
+6E8766,2025-08-21,07:30,08:01,Ahmedabad (AMD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",450,481,31,7,3,False,Major Delay,True,Domestic
+AI4199,2025-08-21,14:45,15:07,Jaipur (JAI),A350,Air India,"('AI', 'Air India', 0.3)",885,907,22,14,3,False,Minor Delay,False,Domestic
+SG1148,2025-08-21,05:00,05:17,Kolkata (CCU),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",300,317,17,5,3,False,Minor Delay,False,Domestic
+6E5126,2025-08-21,06:15,06:39,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",375,399,24,6,3,False,Minor Delay,True,Domestic
+6E6363,2025-08-21,12:30,12:34,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",750,754,4,12,3,False,On Time,False,Domestic
+SG9844,2025-08-21,17:30,17:51,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1050,1071,21,17,3,False,Minor Delay,True,Domestic
+6E9243,2025-08-21,14:45,15:04,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",885,904,19,14,3,False,Minor Delay,False,Domestic
+6E5001,2025-08-21,12:45,12:57,London (LHR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",765,777,12,12,3,False,On Time,False,International
+AI6123,2025-08-21,12:30,13:01,Kolkata (CCU),A350,Air India,"('AI', 'Air India', 0.3)",750,781,31,12,3,False,Major Delay,False,Domestic
+IX7934,2025-08-21,16:15,16:36,Goa (GOI),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",975,996,21,16,3,False,Minor Delay,False,Domestic
+AI7165,2025-08-21,06:15,06:44,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",375,404,29,6,3,False,Minor Delay,True,Domestic
+AI7622,2025-08-21,13:45,13:45,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",825,825,0,13,3,False,Early,False,Domestic
+AI3806,2025-08-21,21:45,21:53,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1305,1313,8,21,3,False,On Time,False,Domestic
+6E2657,2025-08-21,21:45,21:51,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1311,6,21,3,False,On Time,False,Domestic
+6E9638,2025-08-21,21:00,21:00,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1260,0,21,3,False,Early,False,Domestic
+SG2787,2025-08-21,13:15,13:25,Chennai (MAA),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",795,805,10,13,3,False,On Time,False,Domestic
+UK4081,2025-08-21,21:15,21:34,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",1275,1294,19,21,3,False,Minor Delay,False,Domestic
+AI5943,2025-08-21,06:45,07:07,Kolkata (CCU),A320,Air India,"('AI', 'Air India', 0.3)",405,427,22,6,3,False,Minor Delay,True,Domestic
+SG8731,2025-08-21,09:30,09:53,Bengaluru (BLR),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",570,593,23,9,3,False,Minor Delay,True,Domestic
+UK2933,2025-08-21,21:15,21:33,Bengaluru (BLR),B787,Vistara,"('UK', 'Vistara', 0.1)",1275,1293,18,21,3,False,Minor Delay,False,Domestic
+6E9776,2025-08-21,17:00,17:18,Cochin (COK),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1020,1038,18,17,3,False,Minor Delay,True,Domestic
+UK8920,2025-08-21,20:30,20:40,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",1230,1240,10,20,3,False,On Time,True,Domestic
+AI7896,2025-08-21,11:45,12:02,Jaipur (JAI),B737,Air India,"('AI', 'Air India', 0.3)",705,722,17,11,3,False,Minor Delay,False,Domestic
+SG9382,2025-08-21,08:15,08:39,Chennai (MAA),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",495,519,24,8,3,False,Minor Delay,True,Domestic
+SG1806,2025-08-21,05:15,05:17,Hyderabad (HYD),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",315,317,2,5,3,False,On Time,False,Domestic
+6E3609,2025-08-21,07:45,08:07,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",465,487,22,7,3,False,Minor Delay,True,Domestic
+UK8300,2025-08-21,09:45,10:26,Bangkok (BKK),B737,Vistara,"('UK', 'Vistara', 0.1)",585,626,41,9,3,False,Major Delay,True,International
+AI3654,2025-08-21,09:30,09:53,Jaipur (JAI),B777,Air India,"('AI', 'Air India', 0.3)",570,593,23,9,3,False,Minor Delay,True,Domestic
+IX7439,2025-08-21,09:15,09:46,Chennai (MAA),A321,Air India Express,"('IX', 'Air India Express', 0.05)",555,586,31,9,3,False,Major Delay,True,Domestic
+AI2997,2025-08-21,15:15,15:26,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",915,926,11,15,3,False,On Time,False,Domestic
+6E1041,2025-08-21,21:00,21:35,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1295,35,21,3,False,Major Delay,False,Domestic
+6E8234,2025-08-21,16:30,16:35,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",990,995,5,16,3,False,On Time,False,Domestic
+AI3024,2025-08-21,18:30,18:30,Goa (GOI),B738,Air India,"('AI', 'Air India', 0.3)",1110,1110,0,18,3,False,Early,True,Domestic
+6E3628,2025-08-21,18:00,18:19,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1099,19,18,3,False,Minor Delay,True,Domestic
+AI7745,2025-08-21,23:30,23:30,Ahmedabad (AMD),A320,Air India,"('AI', 'Air India', 0.3)",1410,1410,0,23,3,False,Early,False,Domestic
+AI1092,2025-08-21,14:45,15:04,Dubai (DXB),B777,Air India,"('AI', 'Air India', 0.3)",885,904,19,14,3,False,Minor Delay,False,International
+UK3212,2025-08-21,09:15,09:51,Kolkata (CCU),A321,Vistara,"('UK', 'Vistara', 0.1)",555,591,36,9,3,False,Major Delay,True,Domestic
+AI9508,2025-08-21,10:15,10:23,Hyderabad (HYD),A350,Air India,"('AI', 'Air India', 0.3)",615,623,8,10,3,False,On Time,False,Domestic
+SG6071,2025-08-21,07:30,07:40,Hyderabad (HYD),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,460,10,7,3,False,On Time,True,Domestic
+SG1470,2025-08-21,08:15,08:40,Chennai (MAA),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",495,520,25,8,3,False,Minor Delay,True,Domestic
+SG1235,2025-08-21,07:15,07:15,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",435,435,0,7,3,False,Early,True,Domestic
+AI7357,2025-08-21,21:15,21:31,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",1275,1291,16,21,3,False,Minor Delay,False,Domestic
+UK4641,2025-08-21,18:15,18:28,Goa (GOI),B777,Vistara,"('UK', 'Vistara', 0.1)",1095,1108,13,18,3,False,On Time,True,Domestic
+AI3677,2025-08-21,08:30,08:30,Kolkata (CCU),A350,Air India,"('AI', 'Air India', 0.3)",510,510,0,8,3,False,Early,True,Domestic
+AI2588,2025-08-21,14:30,14:44,Ahmedabad (AMD),ATR72,Air India,"('AI', 'Air India', 0.3)",870,884,14,14,3,False,On Time,False,Domestic
+6E7383,2025-08-21,16:15,16:21,Cochin (COK),B738,IndiGo,"('6E', 'IndiGo', 0.4)",975,981,6,16,3,False,On Time,False,Domestic
+6E1566,2025-08-21,21:00,21:16,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1276,16,21,3,False,Minor Delay,False,Domestic
+6E9417,2025-08-21,19:45,19:49,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1189,4,19,3,False,On Time,True,Domestic
+6E3825,2025-08-21,16:00,16:22,Pune (PNQ),B737,IndiGo,"('6E', 'IndiGo', 0.4)",960,982,22,16,3,False,Minor Delay,False,Domestic
+AI3984,2025-08-21,22:30,22:50,Cochin (COK),A321,Air India,"('AI', 'Air India', 0.3)",1350,1370,20,22,3,False,Minor Delay,False,Domestic
+6E7337,2025-08-21,12:15,12:22,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",735,742,7,12,3,False,On Time,False,Domestic
+AI9336,2025-08-21,10:30,10:41,Chennai (MAA),A350,Air India,"('AI', 'Air India', 0.3)",630,641,11,10,3,False,On Time,False,Domestic
+AI7063,2025-08-21,08:00,08:25,Hyderabad (HYD),A350,Air India,"('AI', 'Air India', 0.3)",480,505,25,8,3,False,Minor Delay,True,Domestic
+6E7085,2025-08-21,09:30,10:01,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",570,601,31,9,3,False,Major Delay,True,Domestic
+6E3468,2025-08-21,12:15,12:16,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",735,736,1,12,3,False,On Time,False,Domestic
+SG1681,2025-08-21,15:00,15:02,Delhi (DEL),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",900,902,2,15,3,False,On Time,False,Domestic
+AI2543,2025-08-21,16:15,16:33,Pune (PNQ),B738,Air India,"('AI', 'Air India', 0.3)",975,993,18,16,3,False,Minor Delay,False,Domestic
+AI8374,2025-08-21,16:45,16:58,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",1005,1018,13,16,3,False,On Time,False,Domestic
+6E6180,2025-08-21,12:00,12:00,Goa (GOI),B737,IndiGo,"('6E', 'IndiGo', 0.4)",720,720,0,12,3,False,Early,False,Domestic
+UK5469,2025-08-21,06:30,07:12,Cochin (COK),B787,Vistara,"('UK', 'Vistara', 0.1)",390,432,42,6,3,False,Major Delay,True,Domestic
+AI2147,2025-08-21,15:15,15:21,Pune (PNQ),A320,Air India,"('AI', 'Air India', 0.3)",915,921,6,15,3,False,On Time,False,Domestic
+6E9299,2025-08-21,16:00,16:03,Pune (PNQ),B737,IndiGo,"('6E', 'IndiGo', 0.4)",960,963,3,16,3,False,On Time,False,Domestic
+AI2744,2025-08-21,21:45,22:17,Bengaluru (BLR),A321,Air India,"('AI', 'Air India', 0.3)",1305,1337,32,21,3,False,Major Delay,False,Domestic
+AI6105,2025-08-21,20:00,20:40,Hyderabad (HYD),ATR72,Air India,"('AI', 'Air India', 0.3)",1200,1240,40,20,3,False,Major Delay,True,Domestic
+SG5188,2025-08-21,20:15,20:48,Pune (PNQ),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1215,1248,33,20,3,False,Major Delay,True,Domestic
+AI5404,2025-08-21,07:00,07:19,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",420,439,19,7,3,False,Minor Delay,True,Domestic
+6E4704,2025-08-21,16:15,16:25,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",975,985,10,16,3,False,On Time,False,Domestic
+AI8217,2025-08-21,22:30,22:35,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",1350,1355,5,22,3,False,On Time,False,Domestic
+6E2915,2025-08-21,14:00,14:00,Cochin (COK),A320,IndiGo,"('6E', 'IndiGo', 0.4)",840,840,0,14,3,False,Early,False,Domestic
+AI4278,2025-08-21,16:15,16:41,Cochin (COK),A321,Air India,"('AI', 'Air India', 0.3)",975,1001,26,16,3,False,Minor Delay,False,Domestic
+AI3136,2025-08-21,22:00,22:12,London (LHR),A350,Air India,"('AI', 'Air India', 0.3)",1320,1332,12,22,3,False,On Time,False,International
+6E7414,2025-08-21,18:00,18:19,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1099,19,18,3,False,Minor Delay,True,Domestic
+6E9169,2025-08-21,21:45,22:04,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1324,19,21,3,False,Minor Delay,False,Domestic
+AI9149,2025-08-21,15:30,15:45,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",930,945,15,15,3,False,On Time,False,Domestic
+UK1656,2025-08-21,20:30,20:37,Bengaluru (BLR),B737,Vistara,"('UK', 'Vistara', 0.1)",1230,1237,7,20,3,False,On Time,True,Domestic
+6E5542,2025-08-21,10:30,10:42,Cochin (COK),A350,IndiGo,"('6E', 'IndiGo', 0.4)",630,642,12,10,3,False,On Time,False,Domestic
+6E8127,2025-08-21,12:45,12:45,London (LHR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",765,765,0,12,3,False,Early,False,International
+6E6550,2025-08-21,16:00,16:00,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",960,960,0,16,3,False,Early,False,Domestic
+AI4835,2025-08-21,21:30,21:42,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1290,1302,12,21,3,False,On Time,False,Domestic
+6E7930,2025-08-21,23:45,00:03,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1425,3,-1422,23,3,False,Early,False,Domestic
+AI3824,2025-08-21,07:15,07:45,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",435,465,30,7,3,False,Minor Delay,True,Domestic
+6E3498,2025-08-21,09:15,09:33,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",555,573,18,9,3,False,Minor Delay,True,Domestic
+AI6468,2025-08-21,14:45,14:45,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",885,885,0,14,3,False,Early,False,Domestic
+SG6905,2025-08-21,07:00,07:20,Chennai (MAA),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",420,440,20,7,3,False,Minor Delay,True,Domestic
+QP4761,2025-08-21,10:00,10:00,Goa (GOI),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",600,600,0,10,3,False,Early,False,Domestic
+AI3674,2025-08-21,06:15,06:15,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",375,375,0,6,3,False,Early,True,Domestic
+6E2192,2025-08-21,23:00,23:02,Hyderabad (HYD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1382,2,23,3,False,On Time,False,Domestic
+6E8523,2025-08-21,15:00,15:00,Dubai (DXB),B738,IndiGo,"('6E', 'IndiGo', 0.4)",900,900,0,15,3,False,Early,False,International
+6E6683,2025-08-21,06:45,07:20,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",405,440,35,6,3,False,Major Delay,True,Domestic
+AI6538,2025-08-21,09:30,09:53,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",570,593,23,9,3,False,Minor Delay,True,Domestic
+SG3373,2025-08-21,05:45,05:50,London (LHR),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",345,350,5,5,3,False,On Time,False,International
+6E2003,2025-08-21,11:30,11:39,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",690,699,9,11,3,False,On Time,False,Domestic
+AI7065,2025-08-21,12:45,13:05,Goa (GOI),A350,Air India,"('AI', 'Air India', 0.3)",765,785,20,12,3,False,Minor Delay,False,Domestic
+6E8002,2025-08-21,10:15,10:19,Bangkok (BKK),B777,IndiGo,"('6E', 'IndiGo', 0.4)",615,619,4,10,3,False,On Time,False,International
+UK3513,2025-08-21,08:00,08:17,Delhi (DEL),B787,Vistara,"('UK', 'Vistara', 0.1)",480,497,17,8,3,False,Minor Delay,True,Domestic
+6E9942,2025-08-21,23:15,23:18,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1398,3,23,3,False,On Time,False,Domestic
+6E3693,2025-08-21,12:30,12:47,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",750,767,17,12,3,False,Minor Delay,False,Domestic
+UK4862,2025-08-21,12:45,12:57,Bengaluru (BLR),ATR72,Vistara,"('UK', 'Vistara', 0.1)",765,777,12,12,3,False,On Time,False,Domestic
+6E2855,2025-08-21,16:45,16:49,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1009,4,16,3,False,On Time,False,Domestic
+AI8155,2025-08-21,13:15,13:33,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",795,813,18,13,3,False,Minor Delay,False,Domestic
+IX7711,2025-08-21,07:15,08:05,Chennai (MAA),A350,Air India Express,"('IX', 'Air India Express', 0.05)",435,485,50,7,3,False,Major Delay,True,Domestic
+6E5591,2025-08-21,08:00,08:11,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",480,491,11,8,3,False,On Time,True,Domestic
+6E1254,2025-08-21,11:15,11:30,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",675,690,15,11,3,False,On Time,False,Domestic
+AI9413,2025-08-21,13:15,13:33,Jaipur (JAI),B787,Air India,"('AI', 'Air India', 0.3)",795,813,18,13,3,False,Minor Delay,False,Domestic
+AI6025,2025-08-21,22:30,22:33,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1350,1353,3,22,3,False,On Time,False,Domestic
+AI1183,2025-08-21,18:45,19:21,Hyderabad (HYD),B738,Air India,"('AI', 'Air India', 0.3)",1125,1161,36,18,3,False,Major Delay,True,Domestic
+UK8531,2025-08-21,06:00,06:00,Goa (GOI),ATR72,Vistara,"('UK', 'Vistara', 0.1)",360,360,0,6,3,False,Early,True,Domestic
+IX6850,2025-08-21,23:45,23:45,Bengaluru (BLR),A321,Air India Express,"('IX', 'Air India Express', 0.05)",1425,1425,0,23,3,False,Early,False,Domestic
+6E4108,2025-08-21,06:45,06:45,Pune (PNQ),A321,IndiGo,"('6E', 'IndiGo', 0.4)",405,405,0,6,3,False,Early,True,Domestic
+6E2720,2025-08-21,14:15,14:40,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",855,880,25,14,3,False,Minor Delay,False,Domestic
+UK1376,2025-08-21,10:45,10:51,Delhi (DEL),B738,Vistara,"('UK', 'Vistara', 0.1)",645,651,6,10,3,False,On Time,False,Domestic
+AI1867,2025-08-21,21:30,21:42,Kolkata (CCU),B777,Air India,"('AI', 'Air India', 0.3)",1290,1302,12,21,3,False,On Time,False,Domestic
+6E5648,2025-08-21,18:15,18:52,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1132,37,18,3,False,Major Delay,True,Domestic
+6E7152,2025-08-21,15:00,15:06,Hyderabad (HYD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",900,906,6,15,3,False,On Time,False,Domestic
+6E1848,2025-08-21,13:45,14:01,Ahmedabad (AMD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",825,841,16,13,3,False,Minor Delay,False,Domestic
+AI4183,2025-08-21,09:30,10:02,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",570,602,32,9,3,False,Major Delay,True,Domestic
+6E1810,2025-08-21,12:30,12:31,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",750,751,1,12,3,False,On Time,False,Domestic
+6E2811,2025-08-21,23:30,00:00,Hyderabad (HYD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1410,0,-1410,23,3,False,Early,False,Domestic
+6E8442,2025-08-21,07:00,07:16,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",420,436,16,7,3,False,Minor Delay,True,Domestic
+AI9767,2025-08-21,17:45,17:54,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",1065,1074,9,17,3,False,On Time,True,Domestic
+6E8668,2025-08-21,15:45,16:11,Hyderabad (HYD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",945,971,26,15,3,False,Minor Delay,False,Domestic
+IX6128,2025-08-21,17:15,17:51,Dubai (DXB),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1035,1071,36,17,3,False,Major Delay,True,International
+AI3596,2025-08-21,13:00,13:03,Cochin (COK),A350,Air India,"('AI', 'Air India', 0.3)",780,783,3,13,3,False,On Time,False,Domestic
+UK4346,2025-08-21,05:45,05:47,Singapore (SIN),A350,Vistara,"('UK', 'Vistara', 0.1)",345,347,2,5,3,False,On Time,False,International
+6E1891,2025-08-21,15:45,16:09,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",945,969,24,15,3,False,Minor Delay,False,Domestic
+6E7468,2025-08-21,12:15,12:44,Singapore (SIN),A350,IndiGo,"('6E', 'IndiGo', 0.4)",735,764,29,12,3,False,Minor Delay,False,International
+AI3215,2025-08-21,23:15,23:21,Ahmedabad (AMD),A350,Air India,"('AI', 'Air India', 0.3)",1395,1401,6,23,3,False,On Time,False,Domestic
+6E2196,2025-08-21,08:15,08:42,Pune (PNQ),B737,IndiGo,"('6E', 'IndiGo', 0.4)",495,522,27,8,3,False,Minor Delay,True,Domestic
+AI4787,2025-08-21,12:45,12:50,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",765,770,5,12,3,False,On Time,False,Domestic
+6E4109,2025-08-21,12:00,12:17,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",720,737,17,12,3,False,Minor Delay,False,Domestic
+6E2876,2025-08-21,08:30,08:50,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",510,530,20,8,3,False,Minor Delay,True,Domestic
+UK2386,2025-08-21,13:00,13:21,Bengaluru (BLR),A350,Vistara,"('UK', 'Vistara', 0.1)",780,801,21,13,3,False,Minor Delay,False,Domestic
+AI9966,2025-08-21,12:45,12:45,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",765,765,0,12,3,False,Early,False,Domestic
+6E4389,2025-08-21,15:00,15:03,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",900,903,3,15,3,False,On Time,False,Domestic
+UK3564,2025-08-21,06:15,06:40,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",375,400,25,6,3,False,Minor Delay,True,Domestic
+AI7606,2025-08-21,10:15,10:30,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",615,630,15,10,3,False,On Time,False,Domestic
+6E9453,2025-08-21,09:15,10:02,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",555,602,47,9,3,False,Major Delay,True,Domestic
+QP6092,2025-08-21,20:15,20:38,Delhi (DEL),A321,Akasa Air,"('QP', 'Akasa Air', 0.03)",1215,1238,23,20,3,False,Minor Delay,True,Domestic
+6E7009,2025-08-21,08:00,08:03,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",480,483,3,8,3,False,On Time,True,Domestic
+6E2390,2025-08-21,07:45,08:06,Ahmedabad (AMD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",465,486,21,7,3,False,Minor Delay,True,Domestic
+AI2495,2025-08-21,23:15,23:18,Ahmedabad (AMD),ATR72,Air India,"('AI', 'Air India', 0.3)",1395,1398,3,23,3,False,On Time,False,Domestic
+6E7407,2025-08-21,21:45,21:45,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1305,0,21,3,False,Early,False,Domestic
+6E5079,2025-08-21,22:00,22:18,Cochin (COK),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1338,18,22,3,False,Minor Delay,False,Domestic
+6E5859,2025-08-21,20:30,20:42,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1242,12,20,3,False,On Time,True,Domestic
+AI9760,2025-08-21,22:45,23:13,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",1365,1393,28,22,3,False,Minor Delay,False,Domestic
+6E2688,2025-08-21,08:45,09:04,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",525,544,19,8,3,False,Minor Delay,True,Domestic
+IX2822,2025-08-21,19:30,20:03,Pune (PNQ),B787,Air India Express,"('IX', 'Air India Express', 0.05)",1170,1203,33,19,3,False,Major Delay,True,Domestic
+UK9629,2025-08-21,11:45,11:51,Chennai (MAA),A321,Vistara,"('UK', 'Vistara', 0.1)",705,711,6,11,3,False,On Time,False,Domestic
+UK7597,2025-08-21,06:45,06:53,Cochin (COK),B787,Vistara,"('UK', 'Vistara', 0.1)",405,413,8,6,3,False,On Time,True,Domestic
+SG6611,2025-08-21,14:00,14:00,Bengaluru (BLR),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",840,840,0,14,3,False,Early,False,Domestic
+AI9954,2025-08-21,19:15,19:54,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",1155,1194,39,19,3,False,Major Delay,True,Domestic
+AI7379,2025-08-21,05:00,05:00,Cochin (COK),B777,Air India,"('AI', 'Air India', 0.3)",300,300,0,5,3,False,Early,False,Domestic
+6E8629,2025-08-22,13:30,13:55,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",810,835,25,13,4,False,Minor Delay,False,Domestic
+6E6257,2025-08-22,11:00,11:09,Cochin (COK),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",660,669,9,11,4,False,On Time,False,Domestic
+6E8067,2025-08-22,08:00,08:11,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",480,491,11,8,4,False,On Time,True,Domestic
+AI1864,2025-08-22,14:45,14:50,Kolkata (CCU),B787,Air India,"('AI', 'Air India', 0.3)",885,890,5,14,4,False,On Time,False,Domestic
+SG8039,2025-08-22,14:45,15:23,Jaipur (JAI),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",885,923,38,14,4,False,Major Delay,False,Domestic
+AI2911,2025-08-22,08:00,08:25,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",480,505,25,8,4,False,Minor Delay,True,Domestic
+6E9767,2025-08-22,20:15,20:15,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1215,1215,0,20,4,False,Early,True,Domestic
+AI5002,2025-08-22,23:15,23:32,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",1395,1412,17,23,4,False,Minor Delay,False,Domestic
+6E7730,2025-08-22,20:45,20:49,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1245,1249,4,20,4,False,On Time,True,Domestic
+6E3263,2025-08-22,22:15,22:15,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1335,0,22,4,False,Early,False,Domestic
+AI3607,2025-08-22,16:00,16:10,Pune (PNQ),A350,Air India,"('AI', 'Air India', 0.3)",960,970,10,16,4,False,On Time,False,Domestic
+QP8024,2025-08-22,09:15,09:47,Bengaluru (BLR),A350,Akasa Air,"('QP', 'Akasa Air', 0.03)",555,587,32,9,4,False,Major Delay,True,Domestic
+6E8001,2025-08-22,12:00,12:03,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",720,723,3,12,4,False,On Time,False,Domestic
+6E1992,2025-08-22,21:30,21:41,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1301,11,21,4,False,On Time,False,Domestic
+IX6618,2025-08-22,06:00,06:52,Bengaluru (BLR),A320,Air India Express,"('IX', 'Air India Express', 0.05)",360,412,52,6,4,False,Major Delay,True,Domestic
+6E9742,2025-08-22,21:30,21:34,Chennai (MAA),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1294,4,21,4,False,On Time,False,Domestic
+6E9019,2025-08-22,15:45,15:54,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",945,954,9,15,4,False,On Time,False,Domestic
+6E9811,2025-08-22,21:30,21:30,Pune (PNQ),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1290,0,21,4,False,Early,False,Domestic
+6E6865,2025-08-22,12:45,12:45,Goa (GOI),B777,IndiGo,"('6E', 'IndiGo', 0.4)",765,765,0,12,4,False,Early,False,Domestic
+AI3709,2025-08-22,06:00,06:04,Kolkata (CCU),A320,Air India,"('AI', 'Air India', 0.3)",360,364,4,6,4,False,On Time,True,Domestic
+AI7251,2025-08-22,19:30,20:04,Pune (PNQ),ATR72,Air India,"('AI', 'Air India', 0.3)",1170,1204,34,19,4,False,Major Delay,True,Domestic
+AI3584,2025-08-22,08:00,08:44,Singapore (SIN),A320,Air India,"('AI', 'Air India', 0.3)",480,524,44,8,4,False,Major Delay,True,International
+UK9940,2025-08-22,08:45,08:55,Bengaluru (BLR),ATR72,Vistara,"('UK', 'Vistara', 0.1)",525,535,10,8,4,False,On Time,True,Domestic
+AI4511,2025-08-22,07:00,07:23,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",420,443,23,7,4,False,Minor Delay,True,Domestic
+UK3842,2025-08-22,22:30,22:45,Delhi (DEL),A320,Vistara,"('UK', 'Vistara', 0.1)",1350,1365,15,22,4,False,On Time,False,Domestic
+SG1206,2025-08-22,13:00,13:05,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",780,785,5,13,4,False,On Time,False,Domestic
+6E7711,2025-08-22,13:00,13:11,Ahmedabad (AMD),A321,IndiGo,"('6E', 'IndiGo', 0.4)",780,791,11,13,4,False,On Time,False,Domestic
+6E1359,2025-08-22,21:45,21:45,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1305,0,21,4,False,Early,False,Domestic
+IX4872,2025-08-22,07:45,07:45,Pune (PNQ),A320,Air India Express,"('IX', 'Air India Express', 0.05)",465,465,0,7,4,False,Early,True,Domestic
+SG8381,2025-08-22,15:30,15:42,Hyderabad (HYD),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,942,12,15,4,False,On Time,False,Domestic
+6E2574,2025-08-22,12:00,12:42,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",720,762,42,12,4,False,Major Delay,False,Domestic
+AI5844,2025-08-22,21:00,21:22,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1260,1282,22,21,4,False,Minor Delay,False,Domestic
+6E2911,2025-08-22,19:30,19:54,Bangkok (BKK),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1170,1194,24,19,4,False,Minor Delay,True,International
+AI1013,2025-08-22,07:45,07:54,Bengaluru (BLR),B738,Air India,"('AI', 'Air India', 0.3)",465,474,9,7,4,False,On Time,True,Domestic
+AI3697,2025-08-22,09:45,09:54,Chennai (MAA),B738,Air India,"('AI', 'Air India', 0.3)",585,594,9,9,4,False,On Time,True,Domestic
+6E3983,2025-08-22,20:00,20:22,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1200,1222,22,20,4,False,Minor Delay,True,Domestic
+SG8391,2025-08-22,07:00,07:28,Chennai (MAA),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",420,448,28,7,4,False,Minor Delay,True,Domestic
+AI3022,2025-08-22,09:30,10:03,Ahmedabad (AMD),A321,Air India,"('AI', 'Air India', 0.3)",570,603,33,9,4,False,Major Delay,True,Domestic
+6E3823,2025-08-22,20:30,20:53,Singapore (SIN),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1253,23,20,4,False,Minor Delay,True,International
+SG7327,2025-08-22,09:00,09:16,Bangkok (BKK),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",540,556,16,9,4,False,Minor Delay,True,International
+6E2913,2025-08-22,08:45,08:56,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",525,536,11,8,4,False,On Time,True,Domestic
+IX3215,2025-08-22,17:00,17:04,Delhi (DEL),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1020,1024,4,17,4,False,On Time,True,Domestic
+6E8844,2025-08-22,13:00,13:01,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",780,781,1,13,4,False,On Time,False,Domestic
+SG3111,2025-08-22,22:45,22:45,Ahmedabad (AMD),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1365,1365,0,22,4,False,Early,False,Domestic
+AI8439,2025-08-22,12:15,12:36,Bangkok (BKK),B738,Air India,"('AI', 'Air India', 0.3)",735,756,21,12,4,False,Minor Delay,False,International
+AI1573,2025-08-22,17:15,17:15,Kolkata (CCU),B787,Air India,"('AI', 'Air India', 0.3)",1035,1035,0,17,4,False,Early,True,Domestic
+6E4266,2025-08-22,17:30,17:51,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1071,21,17,4,False,Minor Delay,True,Domestic
+6E7924,2025-08-22,13:15,13:33,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",795,813,18,13,4,False,Minor Delay,False,Domestic
+UK1659,2025-08-22,14:00,14:20,Hyderabad (HYD),A321,Vistara,"('UK', 'Vistara', 0.1)",840,860,20,14,4,False,Minor Delay,False,Domestic
+AI1371,2025-08-22,13:15,13:31,Ahmedabad (AMD),ATR72,Air India,"('AI', 'Air India', 0.3)",795,811,16,13,4,False,Minor Delay,False,Domestic
+6E3006,2025-08-22,10:45,11:01,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",645,661,16,10,4,False,Minor Delay,False,Domestic
+6E6528,2025-08-22,23:00,23:18,Goa (GOI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1398,18,23,4,False,Minor Delay,False,Domestic
+6E5719,2025-08-22,08:15,08:47,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",495,527,32,8,4,False,Major Delay,True,Domestic
+6E8581,2025-08-22,14:00,14:11,Pune (PNQ),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",840,851,11,14,4,False,On Time,False,Domestic
+SG2936,2025-08-22,21:45,21:57,Delhi (DEL),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1305,1317,12,21,4,False,On Time,False,Domestic
+UK6382,2025-08-22,07:45,07:58,Chennai (MAA),A350,Vistara,"('UK', 'Vistara', 0.1)",465,478,13,7,4,False,On Time,True,Domestic
+AI1630,2025-08-22,17:00,17:12,Hyderabad (HYD),B777,Air India,"('AI', 'Air India', 0.3)",1020,1032,12,17,4,False,On Time,True,Domestic
+UK6240,2025-08-22,13:00,13:04,Chennai (MAA),B777,Vistara,"('UK', 'Vistara', 0.1)",780,784,4,13,4,False,On Time,False,Domestic
+SG3502,2025-08-22,19:15,19:44,Pune (PNQ),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1155,1184,29,19,4,False,Minor Delay,True,Domestic
+6E9520,2025-08-22,14:00,14:00,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",840,840,0,14,4,False,Early,False,Domestic
+AI3372,2025-08-22,10:15,10:26,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",615,626,11,10,4,False,On Time,False,Domestic
+6E6204,2025-08-22,05:15,05:35,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",315,335,20,5,4,False,Minor Delay,False,Domestic
+6E8647,2025-08-22,05:30,05:44,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",330,344,14,5,4,False,On Time,False,Domestic
+6E7996,2025-08-22,07:15,07:38,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",435,458,23,7,4,False,Minor Delay,True,Domestic
+6E8498,2025-08-22,15:30,16:11,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",930,971,41,15,4,False,Major Delay,False,Domestic
+6E3735,2025-08-22,21:00,21:09,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1269,9,21,4,False,On Time,False,Domestic
+6E3841,2025-08-22,13:15,13:29,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",795,809,14,13,4,False,On Time,False,Domestic
+6E1102,2025-08-22,11:30,11:40,Hyderabad (HYD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",690,700,10,11,4,False,On Time,False,Domestic
+SG2082,2025-08-22,14:15,14:21,Bengaluru (BLR),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",855,861,6,14,4,False,On Time,False,Domestic
+AI1685,2025-08-22,19:00,19:47,Bengaluru (BLR),B737,Air India,"('AI', 'Air India', 0.3)",1140,1187,47,19,4,False,Major Delay,True,Domestic
+6E5488,2025-08-22,23:00,23:06,Jaipur (JAI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1386,6,23,4,False,On Time,False,Domestic
+AI4778,2025-08-22,22:30,22:35,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",1350,1355,5,22,4,False,On Time,False,Domestic
+AI4628,2025-08-22,15:45,16:00,Kolkata (CCU),B777,Air India,"('AI', 'Air India', 0.3)",945,960,15,15,4,False,On Time,False,Domestic
+6E8154,2025-08-22,05:00,05:18,Pune (PNQ),B777,IndiGo,"('6E', 'IndiGo', 0.4)",300,318,18,5,4,False,Minor Delay,False,Domestic
+6E8061,2025-08-22,10:30,10:43,Goa (GOI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",630,643,13,10,4,False,On Time,False,Domestic
+6E2415,2025-08-22,07:15,07:23,Delhi (DEL),B787,IndiGo,"('6E', 'IndiGo', 0.4)",435,443,8,7,4,False,On Time,True,Domestic
+6E5696,2025-08-22,06:00,06:16,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",360,376,16,6,4,False,Minor Delay,True,Domestic
+6E7469,2025-08-22,10:30,10:44,Hyderabad (HYD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",630,644,14,10,4,False,On Time,False,Domestic
+6E8915,2025-08-22,10:00,10:16,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",600,616,16,10,4,False,Minor Delay,False,Domestic
+6E1220,2025-08-22,21:15,21:52,Goa (GOI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1312,37,21,4,False,Major Delay,False,Domestic
+SG5795,2025-08-22,21:30,21:39,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1290,1299,9,21,4,False,On Time,False,Domestic
+AI1565,2025-08-22,11:15,11:32,Pune (PNQ),A320,Air India,"('AI', 'Air India', 0.3)",675,692,17,11,4,False,Minor Delay,False,Domestic
+AI6200,2025-08-22,06:00,06:37,Ahmedabad (AMD),B787,Air India,"('AI', 'Air India', 0.3)",360,397,37,6,4,False,Major Delay,True,Domestic
+QP6464,2025-08-22,22:15,22:35,Bengaluru (BLR),ATR72,Akasa Air,"('QP', 'Akasa Air', 0.03)",1335,1355,20,22,4,False,Minor Delay,False,Domestic
+AI5490,2025-08-22,05:00,05:10,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",300,310,10,5,4,False,On Time,False,Domestic
+6E7502,2025-08-22,18:15,18:58,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1095,1138,43,18,4,False,Major Delay,True,Domestic
+6E4040,2025-08-22,13:45,13:46,Singapore (SIN),B777,IndiGo,"('6E', 'IndiGo', 0.4)",825,826,1,13,4,False,On Time,False,International
+SG5750,2025-08-22,06:30,06:52,Dubai (DXB),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",390,412,22,6,4,False,Minor Delay,True,International
+UK4437,2025-08-22,13:15,13:29,Chennai (MAA),A321,Vistara,"('UK', 'Vistara', 0.1)",795,809,14,13,4,False,On Time,False,Domestic
+6E2020,2025-08-22,14:30,14:57,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",870,897,27,14,4,False,Minor Delay,False,Domestic
+6E8534,2025-08-22,22:45,22:53,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1365,1373,8,22,4,False,On Time,False,Domestic
+AI9579,2025-08-22,20:45,20:59,Pune (PNQ),ATR72,Air India,"('AI', 'Air India', 0.3)",1245,1259,14,20,4,False,On Time,True,Domestic
+AI4607,2025-08-22,08:30,08:48,Ahmedabad (AMD),B738,Air India,"('AI', 'Air India', 0.3)",510,528,18,8,4,False,Minor Delay,True,Domestic
+6E4382,2025-08-22,09:30,10:02,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",570,602,32,9,4,False,Major Delay,True,Domestic
+6E7358,2025-08-22,21:15,21:19,Kolkata (CCU),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1279,4,21,4,False,On Time,False,Domestic
+IX6576,2025-08-22,06:00,06:44,Jaipur (JAI),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",360,404,44,6,4,False,Major Delay,True,Domestic
+6E9821,2025-08-22,15:45,16:02,Hyderabad (HYD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",945,962,17,15,4,False,Minor Delay,False,Domestic
+SG7992,2025-08-22,22:00,22:00,Hyderabad (HYD),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1320,1320,0,22,4,False,Early,False,Domestic
+UK9554,2025-08-22,18:30,18:49,Bengaluru (BLR),B777,Vistara,"('UK', 'Vistara', 0.1)",1110,1129,19,18,4,False,Minor Delay,True,Domestic
+AI6855,2025-08-22,23:45,23:47,Delhi (DEL),A350,Air India,"('AI', 'Air India', 0.3)",1425,1427,2,23,4,False,On Time,False,Domestic
+AI7134,2025-08-22,06:15,07:03,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",375,423,48,6,4,False,Major Delay,True,Domestic
+QP7196,2025-08-22,21:15,21:30,Chennai (MAA),B738,Akasa Air,"('QP', 'Akasa Air', 0.03)",1275,1290,15,21,4,False,On Time,False,Domestic
+6E9223,2025-08-22,15:45,15:54,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",945,954,9,15,4,False,On Time,False,Domestic
+AI7801,2025-08-22,11:45,11:45,Ahmedabad (AMD),ATR72,Air India,"('AI', 'Air India', 0.3)",705,705,0,11,4,False,Early,False,Domestic
+6E1565,2025-08-22,09:45,09:52,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",585,592,7,9,4,False,On Time,True,Domestic
+6E2244,2025-08-22,19:30,19:50,Dubai (DXB),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1170,1190,20,19,4,False,Minor Delay,True,International
+AI3541,2025-08-22,11:15,11:15,Hyderabad (HYD),B737,Air India,"('AI', 'Air India', 0.3)",675,675,0,11,4,False,Early,False,Domestic
+AI8864,2025-08-22,23:00,23:11,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",1380,1391,11,23,4,False,On Time,False,Domestic
+UK2167,2025-08-22,11:15,11:26,Delhi (DEL),ATR72,Vistara,"('UK', 'Vistara', 0.1)",675,686,11,11,4,False,On Time,False,Domestic
+AI1792,2025-08-22,08:30,09:14,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",510,554,44,8,4,False,Major Delay,True,Domestic
+SG7691,2025-08-22,07:00,07:55,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",420,475,55,7,4,False,Major Delay,True,Domestic
+AI6518,2025-08-22,08:45,09:23,Ahmedabad (AMD),B738,Air India,"('AI', 'Air India', 0.3)",525,563,38,8,4,False,Major Delay,True,Domestic
+UK4239,2025-08-22,17:00,17:10,Delhi (DEL),A350,Vistara,"('UK', 'Vistara', 0.1)",1020,1030,10,17,4,False,On Time,True,Domestic
+SG8838,2025-08-22,21:15,21:30,Delhi (DEL),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",1275,1290,15,21,4,False,On Time,False,Domestic
+6E3941,2025-08-22,08:30,08:37,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",510,517,7,8,4,False,On Time,True,Domestic
+6E5618,2025-08-22,08:15,08:26,Ahmedabad (AMD),B737,IndiGo,"('6E', 'IndiGo', 0.4)",495,506,11,8,4,False,On Time,True,Domestic
+AI8992,2025-08-22,22:00,22:02,Hyderabad (HYD),B777,Air India,"('AI', 'Air India', 0.3)",1320,1322,2,22,4,False,On Time,False,Domestic
+6E9600,2025-08-22,17:00,17:41,Chennai (MAA),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1020,1061,41,17,4,False,Major Delay,True,Domestic
+IX8933,2025-08-22,18:30,18:40,Chennai (MAA),B737,Air India Express,"('IX', 'Air India Express', 0.05)",1110,1120,10,18,4,False,On Time,True,Domestic
+UK2308,2025-08-22,19:45,20:02,Delhi (DEL),B737,Vistara,"('UK', 'Vistara', 0.1)",1185,1202,17,19,4,False,Minor Delay,True,Domestic
+6E7437,2025-08-22,08:30,08:54,Ahmedabad (AMD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",510,534,24,8,4,False,Minor Delay,True,Domestic
+SG5504,2025-08-22,20:00,20:07,Bengaluru (BLR),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1200,1207,7,20,4,False,On Time,True,Domestic
+AI5133,2025-08-22,12:15,12:33,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",735,753,18,12,4,False,Minor Delay,False,Domestic
+AI5918,2025-08-22,14:00,14:26,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",840,866,26,14,4,False,Minor Delay,False,Domestic
+QP8405,2025-08-22,09:45,09:45,Ahmedabad (AMD),A320,Akasa Air,"('QP', 'Akasa Air', 0.03)",585,585,0,9,4,False,Early,True,Domestic
+6E9345,2025-08-22,14:00,14:19,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",840,859,19,14,4,False,Minor Delay,False,Domestic
+UK6625,2025-08-22,14:30,14:38,Kolkata (CCU),B787,Vistara,"('UK', 'Vistara', 0.1)",870,878,8,14,4,False,On Time,False,Domestic
+6E1466,2025-08-22,21:00,21:00,Jaipur (JAI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1260,0,21,4,False,Early,False,Domestic
+6E6099,2025-08-22,14:00,14:10,Bangkok (BKK),B777,IndiGo,"('6E', 'IndiGo', 0.4)",840,850,10,14,4,False,On Time,False,International
+UK1526,2025-08-22,12:30,12:42,Kolkata (CCU),B787,Vistara,"('UK', 'Vistara', 0.1)",750,762,12,12,4,False,On Time,False,Domestic
+6E8809,2025-08-22,22:15,22:28,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1348,13,22,4,False,On Time,False,Domestic
+AI6980,2025-08-22,23:00,23:00,Chennai (MAA),B737,Air India,"('AI', 'Air India', 0.3)",1380,1380,0,23,4,False,Early,False,Domestic
+AI5324,2025-08-22,15:45,15:47,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",945,947,2,15,4,False,On Time,False,Domestic
+UK8817,2025-08-22,10:00,10:20,Delhi (DEL),A321,Vistara,"('UK', 'Vistara', 0.1)",600,620,20,10,4,False,Minor Delay,False,Domestic
+AI7477,2025-08-22,09:15,09:56,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",555,596,41,9,4,False,Major Delay,True,Domestic
+6E5077,2025-08-22,12:15,12:21,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",735,741,6,12,4,False,On Time,False,Domestic
+6E8675,2025-08-22,05:30,05:41,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",330,341,11,5,4,False,On Time,False,Domestic
+6E2751,2025-08-22,22:00,22:17,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1337,17,22,4,False,Minor Delay,False,Domestic
+6E9188,2025-08-22,14:15,14:31,Bengaluru (BLR),B787,IndiGo,"('6E', 'IndiGo', 0.4)",855,871,16,14,4,False,Minor Delay,False,Domestic
+6E4553,2025-08-22,20:30,20:46,Hyderabad (HYD),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1246,16,20,4,False,Minor Delay,True,Domestic
+AI5498,2025-08-22,11:15,11:29,Ahmedabad (AMD),ATR72,Air India,"('AI', 'Air India', 0.3)",675,689,14,11,4,False,On Time,False,Domestic
+AI2939,2025-08-22,06:30,06:30,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",390,390,0,6,4,False,Early,True,Domestic
+AI1104,2025-08-22,08:15,08:28,Hyderabad (HYD),B738,Air India,"('AI', 'Air India', 0.3)",495,508,13,8,4,False,On Time,True,Domestic
+6E5899,2025-08-22,19:00,19:36,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1176,36,19,4,False,Major Delay,True,Domestic
+UK4732,2025-08-22,09:15,09:35,Bengaluru (BLR),A320,Vistara,"('UK', 'Vistara', 0.1)",555,575,20,9,4,False,Minor Delay,True,Domestic
+QP9603,2025-08-22,10:00,10:10,Jaipur (JAI),B738,Akasa Air,"('QP', 'Akasa Air', 0.03)",600,610,10,10,4,False,On Time,False,Domestic
+IX6960,2025-08-22,10:45,10:54,Delhi (DEL),A321,Air India Express,"('IX', 'Air India Express', 0.05)",645,654,9,10,4,False,On Time,False,Domestic
+6E8373,2025-08-22,18:30,18:43,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1110,1123,13,18,4,False,On Time,True,Domestic
+6E7106,2025-08-22,07:00,07:10,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",420,430,10,7,4,False,On Time,True,Domestic
+6E2808,2025-08-22,10:45,10:59,Bengaluru (BLR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",645,659,14,10,4,False,On Time,False,Domestic
+AI9831,2025-08-22,12:00,12:27,Pune (PNQ),A320,Air India,"('AI', 'Air India', 0.3)",720,747,27,12,4,False,Minor Delay,False,Domestic
+AI2490,2025-08-22,23:45,23:59,Singapore (SIN),B737,Air India,"('AI', 'Air India', 0.3)",1425,1439,14,23,4,False,On Time,False,International
+AI7715,2025-08-22,07:15,07:15,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",435,435,0,7,4,False,Early,True,Domestic
+6E6013,2025-08-22,15:30,15:38,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",930,938,8,15,4,False,On Time,False,Domestic
+6E8115,2025-08-22,05:15,05:28,London (LHR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",315,328,13,5,4,False,On Time,False,International
+AI4301,2025-08-22,22:00,22:17,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",1320,1337,17,22,4,False,Minor Delay,False,Domestic
+6E6684,2025-08-22,15:30,15:36,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",930,936,6,15,4,False,On Time,False,Domestic
+UK6666,2025-08-22,13:15,13:20,Bengaluru (BLR),B737,Vistara,"('UK', 'Vistara', 0.1)",795,800,5,13,4,False,On Time,False,Domestic
+SG2198,2025-08-22,10:00,10:03,Bengaluru (BLR),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",600,603,3,10,4,False,On Time,False,Domestic
+IX9143,2025-08-22,09:00,09:30,Bengaluru (BLR),B737,Air India Express,"('IX', 'Air India Express', 0.05)",540,570,30,9,4,False,Minor Delay,True,Domestic
+6E3005,2025-08-22,22:00,22:00,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1320,0,22,4,False,Early,False,Domestic
+QP3995,2025-08-22,11:15,11:24,Chennai (MAA),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",675,684,9,11,4,False,On Time,False,Domestic
+SG3823,2025-08-22,19:00,19:54,Chennai (MAA),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1140,1194,54,19,4,False,Major Delay,True,Domestic
+6E5127,2025-08-22,12:00,12:04,Cochin (COK),B777,IndiGo,"('6E', 'IndiGo', 0.4)",720,724,4,12,4,False,On Time,False,Domestic
+6E5032,2025-08-22,11:15,11:37,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",675,697,22,11,4,False,Minor Delay,False,Domestic
+SG4644,2025-08-22,13:45,13:53,Hyderabad (HYD),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",825,833,8,13,4,False,On Time,False,Domestic
+SG4924,2025-08-22,22:30,22:34,Delhi (DEL),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",1350,1354,4,22,4,False,On Time,False,Domestic
+AI8896,2025-08-22,22:15,22:15,Kolkata (CCU),B787,Air India,"('AI', 'Air India', 0.3)",1335,1335,0,22,4,False,Early,False,Domestic
+AI2781,2025-08-22,05:00,05:23,Kolkata (CCU),B737,Air India,"('AI', 'Air India', 0.3)",300,323,23,5,4,False,Minor Delay,False,Domestic
+6E6374,2025-08-22,13:00,13:12,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",780,792,12,13,4,False,On Time,False,Domestic
+QP4788,2025-08-22,21:00,21:13,Chennai (MAA),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",1260,1273,13,21,4,False,On Time,False,Domestic
+6E3259,2025-08-22,08:15,08:44,Kolkata (CCU),B777,IndiGo,"('6E', 'IndiGo', 0.4)",495,524,29,8,4,False,Minor Delay,True,Domestic
+6E3583,2025-08-22,19:00,19:28,London (LHR),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1168,28,19,4,False,Minor Delay,True,International
+AI9105,2025-08-22,07:00,07:23,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",420,443,23,7,4,False,Minor Delay,True,Domestic
+IX4901,2025-08-22,23:00,23:10,Chennai (MAA),B777,Air India Express,"('IX', 'Air India Express', 0.05)",1380,1390,10,23,4,False,On Time,False,Domestic
+AI8642,2025-08-22,08:45,09:42,Kolkata (CCU),B737,Air India,"('AI', 'Air India', 0.3)",525,582,57,8,4,False,Major Delay,True,Domestic
+6E2988,2025-08-22,15:15,15:18,Singapore (SIN),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",915,918,3,15,4,False,On Time,False,International
+UK9900,2025-08-22,16:30,16:47,Delhi (DEL),A320,Vistara,"('UK', 'Vistara', 0.1)",990,1007,17,16,4,False,Minor Delay,False,Domestic
+AI8549,2025-08-22,08:00,08:01,London (LHR),A350,Air India,"('AI', 'Air India', 0.3)",480,481,1,8,4,False,On Time,True,International
+AI7707,2025-08-22,07:00,07:28,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",420,448,28,7,4,False,Minor Delay,True,Domestic
+6E6342,2025-08-22,16:45,16:45,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1005,0,16,4,False,Early,False,Domestic
+6E4815,2025-08-22,10:30,10:39,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",630,639,9,10,4,False,On Time,False,Domestic
+6E9921,2025-08-22,17:00,17:15,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1020,1035,15,17,4,False,On Time,True,Domestic
+QP7479,2025-08-22,22:30,22:30,Bengaluru (BLR),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",1350,1350,0,22,4,False,Early,False,Domestic
+AI8641,2025-08-22,22:15,22:30,Bengaluru (BLR),B777,Air India,"('AI', 'Air India', 0.3)",1335,1350,15,22,4,False,On Time,False,Domestic
+UK9719,2025-08-22,10:30,10:53,Cochin (COK),B777,Vistara,"('UK', 'Vistara', 0.1)",630,653,23,10,4,False,Minor Delay,False,Domestic
+6E6585,2025-08-23,06:30,06:50,Ahmedabad (AMD),B777,IndiGo,"('6E', 'IndiGo', 0.4)",390,410,20,6,5,True,Minor Delay,True,Domestic
+SG3693,2025-08-23,17:15,17:39,Hyderabad (HYD),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1035,1059,24,17,5,True,Minor Delay,True,Domestic
+AI6553,2025-08-23,11:30,11:50,Ahmedabad (AMD),A320,Air India,"('AI', 'Air India', 0.3)",690,710,20,11,5,True,Minor Delay,False,Domestic
+6E2807,2025-08-23,08:30,08:30,Bengaluru (BLR),A350,IndiGo,"('6E', 'IndiGo', 0.4)",510,510,0,8,5,True,Early,True,Domestic
+AI8842,2025-08-23,22:45,23:19,Bengaluru (BLR),ATR72,Air India,"('AI', 'Air India', 0.3)",1365,1399,34,22,5,True,Major Delay,False,Domestic
+UK1443,2025-08-23,12:45,12:47,Delhi (DEL),A320,Vistara,"('UK', 'Vistara', 0.1)",765,767,2,12,5,True,On Time,False,Domestic
+6E9864,2025-08-23,17:45,18:01,Ahmedabad (AMD),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1065,1081,16,17,5,True,Minor Delay,True,Domestic
+6E4023,2025-08-23,05:30,05:56,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",330,356,26,5,5,True,Minor Delay,False,Domestic
+6E8983,2025-08-23,21:15,21:31,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1275,1291,16,21,5,True,Minor Delay,False,Domestic
+6E5524,2025-08-23,15:30,15:34,Cochin (COK),B777,IndiGo,"('6E', 'IndiGo', 0.4)",930,934,4,15,5,True,On Time,False,Domestic
+AI1300,2025-08-23,21:00,21:33,Kolkata (CCU),B738,Air India,"('AI', 'Air India', 0.3)",1260,1293,33,21,5,True,Major Delay,False,Domestic
+AI9076,2025-08-23,16:15,16:33,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",975,993,18,16,5,True,Minor Delay,False,Domestic
+6E9710,2025-08-23,16:45,16:45,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1005,1005,0,16,5,True,Early,False,Domestic
+SG1784,2025-08-23,11:30,11:56,Dubai (DXB),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",690,716,26,11,5,True,Minor Delay,False,International
+6E7480,2025-08-23,16:15,16:35,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",975,995,20,16,5,True,Minor Delay,False,Domestic
+AI7705,2025-08-23,10:30,10:47,Chennai (MAA),A350,Air India,"('AI', 'Air India', 0.3)",630,647,17,10,5,True,Minor Delay,False,Domestic
+6E1161,2025-08-23,13:00,13:16,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",780,796,16,13,5,True,Minor Delay,False,Domestic
+UK6805,2025-08-23,06:30,06:59,Cochin (COK),B737,Vistara,"('UK', 'Vistara', 0.1)",390,419,29,6,5,True,Minor Delay,True,Domestic
+6E8011,2025-08-23,06:00,06:28,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",360,388,28,6,5,True,Minor Delay,True,Domestic
+QP9516,2025-08-23,10:30,10:35,Cochin (COK),A321,Akasa Air,"('QP', 'Akasa Air', 0.03)",630,635,5,10,5,True,On Time,False,Domestic
+6E8657,2025-08-23,20:30,20:30,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1230,0,20,5,True,Early,True,Domestic
+UK9270,2025-08-23,15:00,15:04,Dubai (DXB),A350,Vistara,"('UK', 'Vistara', 0.1)",900,904,4,15,5,True,On Time,False,International
+IX3146,2025-08-23,19:45,19:52,Delhi (DEL),A320,Air India Express,"('IX', 'Air India Express', 0.05)",1185,1192,7,19,5,True,On Time,True,Domestic
+6E6068,2025-08-23,12:45,12:47,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",765,767,2,12,5,True,On Time,False,Domestic
+6E4931,2025-08-23,07:30,07:31,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",450,451,1,7,5,True,On Time,True,Domestic
+6E4972,2025-08-23,07:00,07:05,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",420,425,5,7,5,True,On Time,True,Domestic
+SG9176,2025-08-23,22:15,22:15,Kolkata (CCU),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",1335,1335,0,22,5,True,Early,False,Domestic
+SG3544,2025-08-23,06:30,06:41,Goa (GOI),A320,SpiceJet,"('SG', 'SpiceJet', 0.12)",390,401,11,6,5,True,On Time,True,Domestic
+6E2610,2025-08-23,18:00,18:34,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1080,1114,34,18,5,True,Major Delay,True,Domestic
+6E8732,2025-08-23,11:00,11:23,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",660,683,23,11,5,True,Minor Delay,False,Domestic
+6E7981,2025-08-23,14:15,14:29,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",855,869,14,14,5,True,On Time,False,Domestic
+6E2063,2025-08-23,22:00,22:06,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1326,6,22,5,True,On Time,False,Domestic
+AI8829,2025-08-23,16:00,16:00,Ahmedabad (AMD),B777,Air India,"('AI', 'Air India', 0.3)",960,960,0,16,5,True,Early,False,Domestic
+AI6839,2025-08-23,10:15,10:26,Pune (PNQ),B737,Air India,"('AI', 'Air India', 0.3)",615,626,11,10,5,True,On Time,False,Domestic
+SG3374,2025-08-23,20:45,21:15,London (LHR),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1245,1275,30,20,5,True,Minor Delay,True,International
+SG6664,2025-08-23,20:30,20:41,Ahmedabad (AMD),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",1230,1241,11,20,5,True,On Time,True,Domestic
+6E7158,2025-08-23,12:15,12:36,Jaipur (JAI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",735,756,21,12,5,True,Minor Delay,False,Domestic
+6E7372,2025-08-23,11:45,12:07,Kolkata (CCU),B737,IndiGo,"('6E', 'IndiGo', 0.4)",705,727,22,11,5,True,Minor Delay,False,Domestic
+AI8416,2025-08-23,08:30,08:32,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",510,512,2,8,5,True,On Time,True,Domestic
+AI4981,2025-08-23,12:00,12:16,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",720,736,16,12,5,True,Minor Delay,False,Domestic
+6E3198,2025-08-23,15:30,15:53,Delhi (DEL),A320,IndiGo,"('6E', 'IndiGo', 0.4)",930,953,23,15,5,True,Minor Delay,False,Domestic
+AI8071,2025-08-23,10:30,10:39,Hyderabad (HYD),ATR72,Air India,"('AI', 'Air India', 0.3)",630,639,9,10,5,True,On Time,False,Domestic
+SG9601,2025-08-23,11:15,11:16,Bengaluru (BLR),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",675,676,1,11,5,True,On Time,False,Domestic
+AI9527,2025-08-23,05:15,05:39,Delhi (DEL),B787,Air India,"('AI', 'Air India', 0.3)",315,339,24,5,5,True,Minor Delay,False,Domestic
+IX1689,2025-08-23,12:15,12:34,Cochin (COK),A321,Air India Express,"('IX', 'Air India Express', 0.05)",735,754,19,12,5,True,Minor Delay,False,Domestic
+AI4455,2025-08-23,14:15,14:24,Ahmedabad (AMD),A350,Air India,"('AI', 'Air India', 0.3)",855,864,9,14,5,True,On Time,False,Domestic
+AI6555,2025-08-23,05:00,05:03,London (LHR),A320,Air India,"('AI', 'Air India', 0.3)",300,303,3,5,5,True,On Time,False,International
+6E7434,2025-08-23,05:15,05:39,Ahmedabad (AMD),A350,IndiGo,"('6E', 'IndiGo', 0.4)",315,339,24,5,5,True,Minor Delay,False,Domestic
+6E7598,2025-08-23,23:30,23:30,Delhi (DEL),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1410,0,23,5,True,Early,False,Domestic
+6E4091,2025-08-23,15:45,15:55,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",945,955,10,15,5,True,On Time,False,Domestic
+AI1231,2025-08-23,09:30,09:30,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",570,570,0,9,5,True,Early,True,Domestic
+AI2794,2025-08-23,12:45,12:58,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",765,778,13,12,5,True,On Time,False,Domestic
+SG4736,2025-08-23,21:30,21:41,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1290,1301,11,21,5,True,On Time,False,Domestic
+UK1895,2025-08-23,21:45,21:55,Goa (GOI),B737,Vistara,"('UK', 'Vistara', 0.1)",1305,1315,10,21,5,True,On Time,False,Domestic
+6E2840,2025-08-23,11:45,12:06,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",705,726,21,11,5,True,Minor Delay,False,Domestic
+SG8331,2025-08-23,17:15,17:59,Kolkata (CCU),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1035,1079,44,17,5,True,Major Delay,True,Domestic
+6E3730,2025-08-23,08:15,08:27,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",495,507,12,8,5,True,On Time,True,Domestic
+6E5507,2025-08-23,15:00,15:23,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",900,923,23,15,5,True,Minor Delay,False,Domestic
+SG8165,2025-08-23,05:30,05:30,Goa (GOI),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",330,330,0,5,5,True,Early,False,Domestic
+6E6825,2025-08-23,09:00,09:54,Bengaluru (BLR),A320,IndiGo,"('6E', 'IndiGo', 0.4)",540,594,54,9,5,True,Major Delay,True,Domestic
+6E5775,2025-08-23,19:00,19:10,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1150,10,19,5,True,On Time,True,Domestic
+QP6442,2025-08-23,13:00,13:14,Delhi (DEL),A321,Akasa Air,"('QP', 'Akasa Air', 0.03)",780,794,14,13,5,True,On Time,False,Domestic
+6E9366,2025-08-23,06:15,06:39,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",375,399,24,6,5,True,Minor Delay,True,Domestic
+AI7992,2025-08-23,11:45,11:58,Ahmedabad (AMD),B787,Air India,"('AI', 'Air India', 0.3)",705,718,13,11,5,True,On Time,False,Domestic
+AI6893,2025-08-23,13:15,13:15,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",795,795,0,13,5,True,Early,False,Domestic
+UK6161,2025-08-23,07:15,07:20,Goa (GOI),ATR72,Vistara,"('UK', 'Vistara', 0.1)",435,440,5,7,5,True,On Time,True,Domestic
+6E8935,2025-08-23,21:00,21:12,Pune (PNQ),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1272,12,21,5,True,On Time,False,Domestic
+AI3969,2025-08-23,14:15,14:15,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",855,855,0,14,5,True,Early,False,Domestic
+AI4354,2025-08-23,14:15,14:22,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",855,862,7,14,5,True,On Time,False,Domestic
+AI8355,2025-08-23,18:30,19:12,Chennai (MAA),ATR72,Air India,"('AI', 'Air India', 0.3)",1110,1152,42,18,5,True,Major Delay,True,Domestic
+UK3054,2025-08-23,10:00,10:12,Delhi (DEL),B738,Vistara,"('UK', 'Vistara', 0.1)",600,612,12,10,5,True,On Time,False,Domestic
+AI9095,2025-08-23,14:15,14:26,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",855,866,11,14,5,True,On Time,False,Domestic
+6E2037,2025-08-23,08:45,09:35,Kolkata (CCU),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",525,575,50,8,5,True,Major Delay,True,Domestic
+6E3260,2025-08-23,08:00,08:14,Pune (PNQ),A320,IndiGo,"('6E', 'IndiGo', 0.4)",480,494,14,8,5,True,On Time,True,Domestic
+6E3421,2025-08-23,06:45,07:06,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",405,426,21,6,5,True,Minor Delay,True,Domestic
+SG2149,2025-08-23,15:30,15:51,Delhi (DEL),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,951,21,15,5,True,Minor Delay,False,Domestic
+6E9232,2025-08-23,13:45,13:56,Cochin (COK),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",825,836,11,13,5,True,On Time,False,Domestic
+6E4412,2025-08-23,05:15,05:36,Kolkata (CCU),A321,IndiGo,"('6E', 'IndiGo', 0.4)",315,336,21,5,5,True,Minor Delay,False,Domestic
+AI7858,2025-08-23,22:45,23:10,Delhi (DEL),ATR72,Air India,"('AI', 'Air India', 0.3)",1365,1390,25,22,5,True,Minor Delay,False,Domestic
+AI1129,2025-08-23,05:00,05:21,Bengaluru (BLR),B738,Air India,"('AI', 'Air India', 0.3)",300,321,21,5,5,True,Minor Delay,False,Domestic
+UK8443,2025-08-23,23:45,23:48,Hyderabad (HYD),B738,Vistara,"('UK', 'Vistara', 0.1)",1425,1428,3,23,5,True,On Time,False,Domestic
+UK4681,2025-08-23,14:15,14:41,Bengaluru (BLR),B738,Vistara,"('UK', 'Vistara', 0.1)",855,881,26,14,5,True,Minor Delay,False,Domestic
+AI7199,2025-08-23,10:15,10:38,Hyderabad (HYD),A321,Air India,"('AI', 'Air India', 0.3)",615,638,23,10,5,True,Minor Delay,False,Domestic
+AI1354,2025-08-23,17:30,17:49,Chennai (MAA),B777,Air India,"('AI', 'Air India', 0.3)",1050,1069,19,17,5,True,Minor Delay,True,Domestic
+6E6837,2025-08-23,14:45,14:45,Cochin (COK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",885,885,0,14,5,True,Early,False,Domestic
+6E4817,2025-08-23,20:30,21:24,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1230,1284,54,20,5,True,Major Delay,True,Domestic
+SG3557,2025-08-23,07:30,08:23,Bengaluru (BLR),B777,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,503,53,7,5,True,Major Delay,True,Domestic
+AI1602,2025-08-23,18:45,19:16,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",1125,1156,31,18,5,True,Major Delay,True,Domestic
+AI8078,2025-08-23,09:45,10:13,Jaipur (JAI),ATR72,Air India,"('AI', 'Air India', 0.3)",585,613,28,9,5,True,Minor Delay,True,Domestic
+6E6961,2025-08-23,08:45,09:11,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",525,551,26,8,5,True,Minor Delay,True,Domestic
+UK9705,2025-08-23,08:30,09:20,Hyderabad (HYD),A350,Vistara,"('UK', 'Vistara', 0.1)",510,560,50,8,5,True,Major Delay,True,Domestic
+6E4534,2025-08-23,23:15,23:23,Cochin (COK),A321,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1403,8,23,5,True,On Time,False,Domestic
+SG3658,2025-08-23,07:30,08:16,Goa (GOI),B787,SpiceJet,"('SG', 'SpiceJet', 0.12)",450,496,46,7,5,True,Major Delay,True,Domestic
+6E8254,2025-08-23,09:00,09:16,Bangkok (BKK),A350,IndiGo,"('6E', 'IndiGo', 0.4)",540,556,16,9,5,True,Minor Delay,True,International
+AI4358,2025-08-23,11:45,12:09,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",705,729,24,11,5,True,Minor Delay,False,Domestic
+SG4087,2025-08-23,18:00,18:37,Ahmedabad (AMD),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1080,1117,37,18,5,True,Major Delay,True,Domestic
+6E4157,2025-08-23,19:45,20:07,Ahmedabad (AMD),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1185,1207,22,19,5,True,Minor Delay,True,Domestic
+6E1982,2025-08-23,15:30,15:33,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",930,933,3,15,5,True,On Time,False,Domestic
+AI2405,2025-08-23,16:45,16:49,Dubai (DXB),ATR72,Air India,"('AI', 'Air India', 0.3)",1005,1009,4,16,5,True,On Time,False,International
+6E3214,2025-08-23,10:00,10:00,Goa (GOI),A350,IndiGo,"('6E', 'IndiGo', 0.4)",600,600,0,10,5,True,Early,False,Domestic
+6E5019,2025-08-23,17:30,18:02,Pune (PNQ),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1050,1082,32,17,5,True,Major Delay,True,Domestic
+SG5175,2025-08-23,17:45,17:45,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",1065,1065,0,17,5,True,Early,True,Domestic
+6E9809,2025-08-23,23:45,23:48,Bangkok (BKK),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1425,1428,3,23,5,True,On Time,False,International
+SG9606,2025-08-23,16:45,16:50,Hyderabad (HYD),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1005,1010,5,16,5,True,On Time,False,Domestic
+SG6971,2025-08-23,21:45,21:57,Bengaluru (BLR),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1305,1317,12,21,5,True,On Time,False,Domestic
+6E9226,2025-08-23,23:15,23:22,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1402,7,23,5,True,On Time,False,Domestic
+AI7396,2025-08-23,18:30,19:05,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",1110,1145,35,18,5,True,Major Delay,True,Domestic
+6E6864,2025-08-23,09:00,09:36,Goa (GOI),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",540,576,36,9,5,True,Major Delay,True,Domestic
+6E3443,2025-08-23,16:30,16:34,Delhi (DEL),B777,IndiGo,"('6E', 'IndiGo', 0.4)",990,994,4,16,5,True,On Time,False,Domestic
+AI1138,2025-08-23,20:15,20:20,Chennai (MAA),A320,Air India,"('AI', 'Air India', 0.3)",1215,1220,5,20,5,True,On Time,True,Domestic
+6E2509,2025-08-23,21:45,22:10,Bengaluru (BLR),B737,IndiGo,"('6E', 'IndiGo', 0.4)",1305,1330,25,21,5,True,Minor Delay,False,Domestic
+UK9181,2025-08-23,17:30,17:30,Kolkata (CCU),B738,Vistara,"('UK', 'Vistara', 0.1)",1050,1050,0,17,5,True,Early,True,Domestic
+SG3459,2025-08-23,19:45,20:19,Kolkata (CCU),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1185,1219,34,19,5,True,Major Delay,True,Domestic
+6E2467,2025-08-23,21:30,21:41,Chennai (MAA),A350,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1301,11,21,5,True,On Time,False,Domestic
+6E3279,2025-08-23,23:15,23:30,Pune (PNQ),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",1395,1410,15,23,5,True,On Time,False,Domestic
+6E5330,2025-08-23,09:30,09:56,Goa (GOI),B738,IndiGo,"('6E', 'IndiGo', 0.4)",570,596,26,9,5,True,Minor Delay,True,Domestic
+6E7908,2025-08-23,22:00,22:23,Bengaluru (BLR),B777,IndiGo,"('6E', 'IndiGo', 0.4)",1320,1343,23,22,5,True,Minor Delay,False,Domestic
+AI8712,2025-08-23,05:45,06:04,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",345,364,19,5,5,True,Minor Delay,False,Domestic
+AI6807,2025-08-23,12:30,12:30,Delhi (DEL),B738,Air India,"('AI', 'Air India', 0.3)",750,750,0,12,5,True,Early,False,Domestic
+SG5675,2025-08-23,19:00,19:34,Hyderabad (HYD),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1140,1174,34,19,5,True,Major Delay,True,Domestic
+IX1137,2025-08-23,08:15,08:43,Bangkok (BKK),B738,Air India Express,"('IX', 'Air India Express', 0.05)",495,523,28,8,5,True,Minor Delay,True,International
+AI1368,2025-08-23,21:00,21:04,London (LHR),B737,Air India,"('AI', 'Air India', 0.3)",1260,1264,4,21,5,True,On Time,False,International
+6E8884,2025-08-23,13:30,13:41,Kolkata (CCU),A320,IndiGo,"('6E', 'IndiGo', 0.4)",810,821,11,13,5,True,On Time,False,Domestic
+AI1618,2025-08-23,10:30,10:32,Bengaluru (BLR),B787,Air India,"('AI', 'Air India', 0.3)",630,632,2,10,5,True,On Time,False,Domestic
+UK5205,2025-08-23,10:00,10:22,Bangkok (BKK),B787,Vistara,"('UK', 'Vistara', 0.1)",600,622,22,10,5,True,Minor Delay,False,International
+6E1594,2025-08-23,19:00,19:17,Kolkata (CCU),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1140,1157,17,19,5,True,Minor Delay,True,Domestic
+AI7264,2025-08-23,11:00,11:08,Ahmedabad (AMD),A321,Air India,"('AI', 'Air India', 0.3)",660,668,8,11,5,True,On Time,False,Domestic
+AI8699,2025-08-23,09:30,10:07,Bengaluru (BLR),A320,Air India,"('AI', 'Air India', 0.3)",570,607,37,9,5,True,Major Delay,True,Domestic
+IX5544,2025-08-23,08:45,09:14,Delhi (DEL),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",525,554,29,8,5,True,Minor Delay,True,Domestic
+IX3083,2025-08-23,06:00,06:43,Bengaluru (BLR),ATR72,Air India Express,"('IX', 'Air India Express', 0.05)",360,403,43,6,5,True,Major Delay,True,Domestic
+UK3599,2025-08-23,07:30,07:50,Hyderabad (HYD),B737,Vistara,"('UK', 'Vistara', 0.1)",450,470,20,7,5,True,Minor Delay,True,Domestic
+6E7706,2025-08-23,22:15,22:21,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1335,1341,6,22,5,True,On Time,False,Domestic
+AI9828,2025-08-23,13:15,13:15,Delhi (DEL),A321,Air India,"('AI', 'Air India', 0.3)",795,795,0,13,5,True,Early,False,Domestic
+UK3034,2025-08-23,06:45,07:43,Chennai (MAA),ATR72,Vistara,"('UK', 'Vistara', 0.1)",405,463,58,6,5,True,Major Delay,True,Domestic
+AI7902,2025-08-23,09:15,09:34,Bengaluru (BLR),A350,Air India,"('AI', 'Air India', 0.3)",555,574,19,9,5,True,Minor Delay,True,Domestic
+UK1135,2025-08-23,11:45,11:45,Delhi (DEL),B738,Vistara,"('UK', 'Vistara', 0.1)",705,705,0,11,5,True,Early,False,Domestic
+SG1468,2025-08-23,15:30,15:49,Chennai (MAA),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",930,949,19,15,5,True,Minor Delay,False,Domestic
+6E9052,2025-08-23,14:45,15:06,Delhi (DEL),A350,IndiGo,"('6E', 'IndiGo', 0.4)",885,906,21,14,5,True,Minor Delay,False,Domestic
+6E7923,2025-08-23,09:30,10:27,Delhi (DEL),A321,IndiGo,"('6E', 'IndiGo', 0.4)",570,627,57,9,5,True,Major Delay,True,Domestic
+SG1431,2025-08-23,10:15,10:40,Singapore (SIN),A321,SpiceJet,"('SG', 'SpiceJet', 0.12)",615,640,25,10,5,True,Minor Delay,False,International
+6E8887,2025-08-23,10:15,10:25,Bengaluru (BLR),B738,IndiGo,"('6E', 'IndiGo', 0.4)",615,625,10,10,5,True,On Time,False,Domestic
+6E1997,2025-08-23,23:00,23:21,Chennai (MAA),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1401,21,23,5,True,Minor Delay,False,Domestic
+6E4037,2025-08-23,15:30,15:40,Delhi (DEL),B737,IndiGo,"('6E', 'IndiGo', 0.4)",930,940,10,15,5,True,On Time,False,Domestic
+6E2874,2025-08-23,21:00,21:08,Kolkata (CCU),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1260,1268,8,21,5,True,On Time,False,Domestic
+SG9953,2025-08-23,21:45,21:48,Kolkata (CCU),B738,SpiceJet,"('SG', 'SpiceJet', 0.12)",1305,1308,3,21,5,True,On Time,False,Domestic
+QP4648,2025-08-23,16:30,16:40,Delhi (DEL),B777,Akasa Air,"('QP', 'Akasa Air', 0.03)",990,1000,10,16,5,True,On Time,False,Domestic
+6E3051,2025-08-23,21:30,21:48,Ahmedabad (AMD),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1308,18,21,5,True,Minor Delay,False,Domestic
+UK5702,2025-08-23,22:30,22:40,Kolkata (CCU),A321,Vistara,"('UK', 'Vistara', 0.1)",1350,1360,10,22,5,True,On Time,False,Domestic
+AI9634,2025-08-23,21:45,22:03,Delhi (DEL),A320,Air India,"('AI', 'Air India', 0.3)",1305,1323,18,21,5,True,Minor Delay,False,Domestic
+AI2635,2025-08-23,19:30,19:51,Kolkata (CCU),A321,Air India,"('AI', 'Air India', 0.3)",1170,1191,21,19,5,True,Minor Delay,True,Domestic
+AI3942,2025-08-23,10:30,10:42,Kolkata (CCU),ATR72,Air India,"('AI', 'Air India', 0.3)",630,642,12,10,5,True,On Time,False,Domestic
+AI8521,2025-08-23,21:00,21:25,Chennai (MAA),A321,Air India,"('AI', 'Air India', 0.3)",1260,1285,25,21,5,True,Minor Delay,False,Domestic
+AI5224,2025-08-23,22:30,22:32,Hyderabad (HYD),B777,Air India,"('AI', 'Air India', 0.3)",1350,1352,2,22,5,True,On Time,False,Domestic
+6E3273,2025-08-23,10:30,10:43,Pune (PNQ),B777,IndiGo,"('6E', 'IndiGo', 0.4)",630,643,13,10,5,True,On Time,False,Domestic
+6E5691,2025-08-23,21:30,21:30,Goa (GOI),A320,IndiGo,"('6E', 'IndiGo', 0.4)",1290,1290,0,21,5,True,Early,False,Domestic
+6E9258,2025-08-23,23:30,23:40,Delhi (DEL),B738,IndiGo,"('6E', 'IndiGo', 0.4)",1410,1420,10,23,5,True,On Time,False,Domestic
+6E5697,2025-08-23,12:15,12:39,Chennai (MAA),B777,IndiGo,"('6E', 'IndiGo', 0.4)",735,759,24,12,5,True,Minor Delay,False,Domestic
+SG7274,2025-08-23,22:30,22:43,Delhi (DEL),B737,SpiceJet,"('SG', 'SpiceJet', 0.12)",1350,1363,13,22,5,True,On Time,False,Domestic
+IX4472,2025-08-23,14:45,15:04,Bengaluru (BLR),B738,Air India Express,"('IX', 'Air India Express', 0.05)",885,904,19,14,5,True,Minor Delay,False,Domestic
+6E4141,2025-08-23,11:45,11:51,Chennai (MAA),B737,IndiGo,"('6E', 'IndiGo', 0.4)",705,711,6,11,5,True,On Time,False,Domestic
+6E8024,2025-08-23,12:45,12:58,Jaipur (JAI),B787,IndiGo,"('6E', 'IndiGo', 0.4)",765,778,13,12,5,True,On Time,False,Domestic
+AI8814,2025-08-23,06:30,06:52,Cochin (COK),B737,Air India,"('AI', 'Air India', 0.3)",390,412,22,6,5,True,Minor Delay,True,Domestic
+AI5001,2025-08-23,05:15,05:37,Hyderabad (HYD),A320,Air India,"('AI', 'Air India', 0.3)",315,337,22,5,5,True,Minor Delay,False,Domestic
+IX9536,2025-08-23,23:45,23:58,Hyderabad (HYD),B737,Air India Express,"('IX', 'Air India Express', 0.05)",1425,1438,13,23,5,True,On Time,False,Domestic
+AI8704,2025-08-23,16:30,16:54,Cochin (COK),A350,Air India,"('AI', 'Air India', 0.3)",990,1014,24,16,5,True,Minor Delay,False,Domestic
+SG5257,2025-08-23,14:00,14:14,Delhi (DEL),A350,SpiceJet,"('SG', 'SpiceJet', 0.12)",840,854,14,14,5,True,On Time,False,Domestic
+UK6310,2025-08-23,05:00,05:07,Bengaluru (BLR),B737,Vistara,"('UK', 'Vistara', 0.1)",300,307,7,5,5,True,On Time,False,Domestic
+AI7984,2025-08-23,21:15,21:16,Goa (GOI),A350,Air India,"('AI', 'Air India', 0.3)",1275,1276,1,21,5,True,On Time,False,Domestic
+UK3140,2025-08-23,09:45,10:21,Hyderabad (HYD),A320,Vistara,"('UK', 'Vistara', 0.1)",585,621,36,9,5,True,Major Delay,True,Domestic
+AI8161,2025-08-23,23:45,00:01,Delhi (DEL),B777,Air India,"('AI', 'Air India', 0.3)",1425,1,-1424,23,5,True,Early,False,Domestic
+6E6844,2025-08-23,23:00,23:12,Chennai (MAA),B787,IndiGo,"('6E', 'IndiGo', 0.4)",1380,1392,12,23,5,True,On Time,False,Domestic
+6E9723,2025-08-23,11:45,11:45,Bengaluru (BLR),ATR72,IndiGo,"('6E', 'IndiGo', 0.4)",705,705,0,11,5,True,Early,False,Domestic
+SG4827,2025-08-23,08:00,08:20,Pune (PNQ),ATR72,SpiceJet,"('SG', 'SpiceJet', 0.12)",480,500,20,8,5,True,Minor Delay,True,Domestic
+AI1073,2025-08-23,12:45,12:45,Delhi (DEL),B737,Air India,"('AI', 'Air India', 0.3)",765,765,0,12,5,True,Early,False,Domestic
